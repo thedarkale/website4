@@ -1,12 +1,12 @@
 const config = {
   // Site info
-  siteTitle: "Gatsby Blog Template", // Site title.
-  siteTitleShort: "GB Template", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
-  siteTitleAlt: "Gatsby Blog Template", // Alternative site title for SEO.
-  siteLogo: "/logos/logo-1024x1024.png", // Logo used for SEO and manifest.
-  siteUrl: "https://gb-template.netlify.com", // Domain of your website without pathPrefix.
+  siteTitle: "thedakale", // Site title.
+  siteTitleShort: "thedakale", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
+  siteTitleAlt: "blog website", // Alternative site title for SEO.
+  siteLogo: "", // Logo used for SEO and manifest.
+  siteUrl: "https://thedarkale.com", // Domain of your website without pathPrefix.
   pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
-  siteDescription: "A GatsbyJS Blog Template for blogging purpose.", // Website description used for RSS feeds/meta description tag.
+  siteDescription: "thedakale official website", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteLang: "en",
   siteFBAppID: "399626517562189", // FB Application ID for using app insights
@@ -23,7 +23,7 @@ const config = {
   postOnDate: "Posted on",
   // Use for comment
   lazyLoadComments: true,
-  disqusShortname: "gb-template", // Disqus shortname.
+  disqusShortname: "thedarkale", // Disqus shortname.
   btnLoadComments: "Load comments",
   // Use for home page
   numberLoadmore: 6,
@@ -48,7 +48,7 @@ const config = {
   categoryWidgetTitle: "Categories",
   tagWidgetTitle: "Tags",
   latestPostsWidgetTitle: "Latest posts",
-  linksWidgetTitle: "Links",
+  linksWidgetTitle: "Top Songs this Week",
   // Use for Google custom search
   searchWidgetTitle: "Looking for?",
   searchWidgetPlaceHolder: "Enter keyword",
@@ -58,56 +58,59 @@ const config = {
   sidebarSticky: true,
   sidebarLinks: [
     {
-      label: "Complete JavaScript",
-      url: "https://completejavascript.com/"
+      label: "Fade To Black - Metallica",
+      url: "https://open.spotify.com/track/5nekfiTN45vlxG0eNJQQye?si=XKWTsXRLQ4mKegGWMv7KEg"
     },
     {
-      label: "Lam Pham Blog",
-      url: "https://phamvanlam.com/"
+      label: "Flagpole Sitta - Harvey Danger",
+      url: "https://open.spotify.com/track/7cz70nyRXlCJOE85whEkgU?si=whQtZhArRju0ELh3XsbjMw"
     },
     {
-      label: "Lam Pham Portfolio",
-      url: "http://about.phamvanlam.com/"
+      label: "Rock And Roll Part 2 - The Glitter Band",
+      url: "https://open.spotify.com/track/7KkStID9wWJz2YawocOh5r?si=DBXNrJ8dS-aNF7YEjwQbJA"
+    },
+    {
+      label: "Dreams - Fleetwood Mac",
+      url: "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz?si=THC1oF1aStCXEeIIUBqARQ"
     },
   ],
   // Use for user info
-  userName: "Lam Pham", // Username to display in the author segment.
-  userEmail: "completejavascript.super@gmail.com", // Email used for RSS feed"s author segment
-  userTwitter: "CmpltJavaScript", // Optionally renders "Follow Me" in the UserInfo segment.
-  userLocation: "Hanoi, Vietnam", // User location to display in the author segment.
-  userAvatar: "https://www.gravatar.com/avatar/42fd3d526fde1ef76d5002e4ebd303e9.jpg?s=300", // User avatar to display in the author segment.
-  userDescription:
-    "Software Engineer, Web Developer, JavaScript Lover & Blogger @completejavascript.", // User description to display in the author segment.
+  userName: "Aniruddha Pandey", // Username to display in the author segment.
+  userEmail: "anirudh.pandev@gmail.com", // Email used for RSS feed"s author segment
+  userTwitter: "thedarkale", // Optionally renders "Follow Me" in the UserInfo segment.
+  userLocation: "Indore, India", // User location to display in the author segment.
+  userAvatar: "", // User avatar to display in the author segment.
+  userDescription: "", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
       label: "Email",
-      url: "mailto:completejavascript.super@gmail.com",
+      url: "contact.thedarkale@gmail.com",
       iconClassName: "far envelope"
     },
     {
       label: "Website",
-      url: "https://completejavascript.com/",
+      url: "https://thedarkale.com",
       iconClassName: "fas globe"
     },
     {
       label: "Twitter",
-      url: "https://twitter.com/CmpltJavaScript",
+      url: "https://twitter.com/",
       iconClassName: "fab twitter"
     },
     { 
       label: "Facebook", 
-      url: "https://www.facebook.com/completejavascript/", 
+      url: "https://www.facebook.com/", 
       iconClassName: "fab facebook-f" 
     },
     { 
       label: "Linkedin", 
-      url: "https://www.linkedin.com/in/completejavascript/", 
+      url: "https://www.linkedin.com/", 
       iconClassName: "fab linkedin-in"
     },
   ],
   // Use for navigation
-  navTitle: "GB Template",
+  navTitle: "thedarkale",
   navLinks: [
     { label: "About", url: "/about" },
     { label: "Contact", url: "/contact" },
@@ -115,38 +118,28 @@ const config = {
   // Use for footer
   socialLinks: [
     { 
-      label: "Codepen", 
-      url: "https://codepen.io/completejavascript/", 
-      iconClassName: "fab codepen" 
-    },
-    { 
-      label: "FreeCodeCamp", 
-      url: "", // Ignore 
-      iconClassName: "fab free-code-camp"
-    },
-    { 
       label: "GitHub",
-      url: "https://github.com/completejavascript",
+      url: "https://github.com/thedarkale",
       iconClassName: "fab github"
     },
     { 
       label: "Facebook", 
-      url: "https://www.facebook.com/completejavascript/", 
+      url: "https://www.facebook.com/", 
       iconClassName: "fab facebook-f"
     },
     { 
       label: "Linkedin", 
-      url: "https://www.linkedin.com/in/completejavascript/", 
+      url: "https://www.linkedin.com/", 
       iconClassName: "fab linkedin-in"
     },
     {
       label: "Twitter",
-      url: "https://twitter.com/CmpltJavaScript",
+      url: "https://twitter.com/",
       iconClassName: "fab twitter"
     },
     {
       label: "RSS",
-      url: "https://gb-template.netlify.com/rss.xml",
+      url: "https://thedarkale.com/rss.xml",
       iconClassName: "fas rss"
     },
   ],
@@ -156,12 +149,12 @@ const config = {
     { label: "Contact", url: "/contact" },
     { label: "Terms of Use", url: "/terms" },
     { label: "Privacy Policy", url: "/privacy" },
-    { label: "Sitemap", url: "https://gb-template.netlify.com/sitemap.xml" },
+    { label: "Sitemap", url: "https://thedarkale.com/sitemap.xml" },
   ],
-  copyright: "Copyright © 2019-2020 Lam Pham. Unless otherwise noted, all code MIT license.",
+  copyright: "© 2021 thedarkale, All rights reserved.",
   // Use for manifest
   themeColor: "#2196F3", // Used for setting manifest and progress theme colors.
-  backgroundColor: "#FFF" // Used for setting manifest background color.
+  backgroundColor: "#FFF8FA" // Used for setting manifest background color.
 };
 
 // Validate

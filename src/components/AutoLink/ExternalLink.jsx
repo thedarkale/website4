@@ -6,7 +6,7 @@ const ExternalLink = ({ className, to, children, style }) => (
     href={to}
     target="_blank"
     rel="noopener noreferrer"
-    style={{...style}}
+    style={{...style, color: "#FC3F80"}}
   >
     {children}
   </a>

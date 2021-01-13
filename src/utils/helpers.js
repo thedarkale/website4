@@ -13,6 +13,7 @@ export const getPostList = postEdges => postEdges.map(postEdge => ({
   categories: postEdge.node.frontmatter.categories,
   cover: postEdge.node.frontmatter.cover,
   title: postEdge.node.frontmatter.title,
+  description: postEdge.node.frontmatter.description,
   date: postEdge.node.fields.date,
   slug: postEdge.node.fields.slug,
   excerpt: postEdge.node.excerpt,

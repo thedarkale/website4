@@ -34,11 +34,11 @@ class Index extends React.Component {
     );
 
     const headerTitle = config.homeHeader 
-      ? `${config.siteTitle} - ${config.homeHeader}`
+      ? `${config.homeHeader}`
       : `${config.siteTitle}`;
 
     return (
-      <Layout>
+      <Layout style={{ fontFamily: "Montserrat" }}>
         <div className="index-container">
           <Helmet title={config.siteTitle} />
           <SEO />
@@ -77,6 +77,7 @@ export const pageQuery = graphql`
           timeToRead
           frontmatter {
             title
+            description
             tags
             categories
             date

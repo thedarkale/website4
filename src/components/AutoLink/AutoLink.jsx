@@ -12,7 +12,7 @@ const AutoLink = (props) => (
         to={props.to}
         activeClassName={props.activeClassName}
         className={props.className}
-        style={{...props.style}}
+        style={{...props.style, color: "#FC3F80"}}
       >
         {props.children}
       </Link>

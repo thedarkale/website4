@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-blog-template",
-  "description": "GatsbyJS Blog Template for blogging purpose.",
+  "name": "thedarkale",
+  "description": "thedarkale official website",
   "version": "1.1.0",
-  "author": "Lam Pham <completejavascript.super@gmail.com>",
+  "author": "Aniruddha Pandey <anirudh.pandev@gmail.com>",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.19",
     "@fortawesome/free-brands-svg-icons": "^5.9.0",
