@@ -15,6 +15,24 @@ module.exports = {
     }
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: [
+          "G-7G95M7TCR8", // Google Analytics / GA
+          "AW-CONVERSION_ID", // Google Ads / Adwords / AW
+          "DC-FLOODIGHT_ID", // Marketing Platform advertising products (Display & Video 360, Search Ads 360, and Campaign Manager)
+        ],
+        gtagConfig: {
+          optimize_id: "OPT_CONTAINER_ID",
+          anonymize_ip: true,
+          cookie_expires: 0,
+        },
+        pluginConfig: {
+          head: true,
+        },
+      },
+    },
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-lodash",
     {
@@ -70,12 +88,6 @@ module.exports = {
           '/sw.js': ['cache-control: public, max-age=0, must-revalidate'],
         },
       },
-    },
-    {
-      resolve: "gatsby-plugin-google-analytics",
-      options: {
-        trackingId: config.googleAnalyticsID
-      }
     },
     {
       resolve: "gatsby-plugin-nprogress",
