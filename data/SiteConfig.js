@@ -10,7 +10,7 @@ const config = {
   siteRss: "/rss.xml", // Path to the RSS file.
   siteLang: "en",
   siteFBAppID: "399626517562189", // FB Application ID for using app insights
-  googleAnalyticsID: "UA-96543695-7", // GA tracking ID.
+  googleAnalyticsID: "G-7G95M7TCR8", // GA tracking ID.
   postDefaultCategoryID: "", // Default category for posts.
   // Common for tag, category pages and widget
   numberLatestPost: 8,
