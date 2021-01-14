@@ -3,8 +3,8 @@ const config = {
   siteTitle: "thedakale", // Site title.
   siteTitleShort: "thedakale", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "blog website", // Alternative site title for SEO.
-  siteLogo: "", // Logo used for SEO and manifest.
-  siteUrl: "https://thedarkale.com", // Domain of your website without pathPrefix.
+  siteLogo: "../content/images/logo.png", // Logo used for SEO and manifest.
+  siteUrl: "https://jolly-wozniak-617472.netlify.app", // Domain of your website without pathPrefix.
   pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: "thedakale official website", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
