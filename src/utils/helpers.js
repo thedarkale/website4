@@ -7,12 +7,14 @@ export const isInteralLink = link => link && link[0] === "/";
 export const formatDate = date => moment(date).format(config.dateFormat);
 export const getTagPath = tag => `${config.pathPrefixTag}/${slugify(tag)}`;
 export const getCategoryPath = category => `${config.pathPrefixCategory}/${slugify(category)}`;
+export const getAuthorPath = author => `${config.pathPrefixAuthor}/${slugify(author.split(",")[0])}`;
 export const getPostList = postEdges => postEdges.map(postEdge => ({
   path: postEdge.node.fields.slug,
   tags: postEdge.node.frontmatter.tags,
   categories: postEdge.node.frontmatter.categories,
   cover: postEdge.node.frontmatter.cover,
   title: postEdge.node.frontmatter.title,
+  author: postEdge.node.frontmatter.author,
   description: postEdge.node.frontmatter.description,
   date: postEdge.node.fields.date,
   slug: postEdge.node.fields.slug,

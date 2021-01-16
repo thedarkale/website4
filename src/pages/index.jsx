@@ -78,6 +78,7 @@ export const pageQuery = graphql`
           frontmatter {
             title
             description
+            author
             tags
             categories
             date

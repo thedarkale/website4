@@ -42,6 +42,7 @@ const config = {
   tagHasThumbnail: true,
   // Use for category
   pathPrefixCategory: "/category", // Prefix path for category
+  pathPrefixAuthor: "/author", // Prefix path for author
   categoryHeader: "Posts in category", // use in header of category-template page
   categoryHasThumbnail: true,
   // Use for widget

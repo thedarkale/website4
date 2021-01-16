@@ -3,13 +3,13 @@ import {
   FacebookShareButton,
   TwitterShareButton,
   TelegramShareButton,
-  RedditShareButton,
+  WhatsappShareButton,
   FacebookShareCount,
   RedditShareCount,
   FacebookIcon,
   TwitterIcon,
   TelegramIcon,
-  RedditIcon
+  WhatsappIcon
 } from "react-share";
 import urljoin from "url-join";
 import config from "../../../data/SiteConfig";
@@ -25,12 +25,9 @@ const PostShare = ({ postNode, postPath, extraClass = "" }) => {
 
   return (
     <div className={`flex ${extraClass}`}>
-      <RedditShareButton className="cursor-pointer margin-right-half" url={url} title={post.title}>
-        <RedditIcon round size={iconSize} />
-        <RedditShareCount url={url}>
-          {count => renderShareCount(count)}
-        </RedditShareCount>
-      </RedditShareButton>
+      <WhatsappShareButton className="cursor-pointer margin-right-half" url={url} title={post.title}>
+        <WhatsappIcon round size={iconSize} />
+      </WhatsappShareButton>
 
       <TwitterShareButton className="cursor-pointer margin-right-half" url={url} title={post.title}>
         <TwitterIcon round size={iconSize} />

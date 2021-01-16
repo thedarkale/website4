@@ -3,6 +3,7 @@ import Comment from "../Comment/Comment";
 import PostTags from "./PostTags";
 import PostShare from "./PostShare";
 import PostDate from "./PostDate";
+import PostAuthor from "./PostAuthor";
 import PostDivider from "./PostDivider";
 import PostCategories from "./PostCategories";
 import "./Post.scss";
@@ -21,6 +22,7 @@ const Post = ({ postNode, config, slug }) => {
     <div className="post-container">
       <div className="meta-share-wrapper padding-top padding-bottom">
         <PostDate extraClass="meta-wrapper" date={post.date} /> 
+        <PostAuthor extraClass="meta-wrapper" author={post.author} /> 
         <PostShare extraClass="share-wrapper" postPath={slug} postNode={postNode} />
       </div>
       <PostDivider />

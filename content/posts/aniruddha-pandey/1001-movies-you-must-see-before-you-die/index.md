@@ -1,8 +1,8 @@
 ---
 template: "post"
-slug: "1001-movies-you-must-see-before-you-die"
+slug: "1001-movies-you-must-watch-before-you-die"
 
-title: "1001 Movies You Must See Before You Die"
+title: "1001 Movies You Must Watch Before You Die"
 author: "Aniruddha Pandey, Siddharth Mandge, Soumyadeep Dubey"
 description: "Cinema can change people, help someone to move out of depression, have a change from daily chores and many more."
 
