@@ -8,12 +8,18 @@ author: "Somyadeep Dubey"
 cover: "./banner.jpg"
 images:
     - banner:
-        url: "https://pixabay.com/photos/bodybuilding-fitness-model-685087/"
+        url: "https://www.pexels.com/photo/woman-lifting-two-dumbells-on-both-hands-in-front-of-mirror-1886487/"
         feature: ./banner.jpg
         credit:
-            info: "Taken from Pixabay, https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=685087"
-            name: "fvasallo"
-            link: "https://pixabay.com/users/fvasallo-872325/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=685087"
+            info: "Taken from pexels.com"
+            link: "https://www.pexels.com/@eduardo-romero-817034"
+    - lift:
+        url: "https://www.pexels.com/photo/woman-lifting-green-and-black-barbell-1566404/"
+        feature: ./lift.jpg
+        credit:
+            info: "Taken from Pexels"
+            name: "Frans Van Heerden"
+            link: "https://www.pexels.com/@frans-van-heerden-201846"
 
 date: "2021-01-23T20:52:47.987Z"
 lastupdated: "2021-01-23T20:52:47.987Z"
@@ -31,7 +37,7 @@ tags:
     - strength
 ---
 
-![Bodybuilders Flexing](./banner.jpg)
+![Woman Lifting Two Dumbells on Both Hands in Front of Mirror](./banner.jpg)
 
 ---
 
@@ -40,6 +46,8 @@ tags:
 Have you ever wondered why bodybuilders become mass monsters and professional athletes like powerlifters look relatively small? Bodybuilder maintains an extremely low body fat per cent whereas strongman athlete carries a huge amount of fat. Bodybuilder lifts heavy but not as heavy as strongman athlete.
 
 The reason is their training method and their purpose which is different. In bodybuilding, the factors like the amount of muscle mass, symmetry, conditioning and aesthetics are considered whereas the only goal of a strong man athlete is to become as strong as possible or lift as heavy as possible.
+
+![Woman Lifting Green and Black Barbell](./lift.jpg)
 
 How does different in training change the aesthetics and strength of both the athletes?
 Muscle hypertrophy is the increase in the size of muscle tissue. When you do exercise your muscle gets a pump, this pump is called muscle hypertrophy.
