@@ -36,6 +36,7 @@ tags:
 ---
 
 > Here is all you need to know about muscle hypertrophy
+
 Have you ever wondered why bodybuilders become mass monsters and professional athletes like powerlifters look relatively small? Bodybuilder maintains an extremely low body fat per cent whereas strongman athlete carries a huge amount of fat. Bodybuilder lifts heavy but not as heavy as strongman athlete.
 
 The reason is their training method and their purpose which is different. In bodybuilding, the factors like the amount of muscle mass, symmetry, conditioning and aesthetics are considered whereas the only goal of a strong man athlete is to become as strong as possible or lift as heavy as possible.
