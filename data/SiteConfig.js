@@ -23,7 +23,7 @@ const config = {
   postOnDate: "Posted on",
   // Use for comment
   lazyLoadComments: true,
-  disqusShortname: "thedarkale", // Disqus shortname.
+  disqusShortname: "https-thedarkale-com", // Disqus shortname.
   btnLoadComments: "Load comments",
   // Use for home page
   numberLoadmore: 6,
