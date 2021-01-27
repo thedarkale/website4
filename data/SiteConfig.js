@@ -108,7 +108,7 @@ const config = {
       label: "Linkedin", 
       url: "https://www.linkedin.com/", 
       iconClassName: "fab linkedin-in"
-    },
+    }
   ],
   // Use for navigation
   navTitle: "thedarkale",
@@ -125,17 +125,17 @@ const config = {
     },
     { 
       label: "Facebook", 
-      url: "https://www.facebook.com/", 
+      url: "https://www.facebook.com/Thedarkale-103790038368321", 
       iconClassName: "fab facebook-f"
     },
     { 
-      label: "Linkedin", 
-      url: "https://www.linkedin.com/", 
-      iconClassName: "fab linkedin-in"
+      label: "Instagram", 
+      url: "https://www.instagram.com/thedarkale", 
+      iconClassName: "fab facebook-f"
     },
     {
       label: "Twitter",
-      url: "https://twitter.com/",
+      url: "https://twitter.com/thedarkaleblog",
       iconClassName: "fab twitter"
     },
     {

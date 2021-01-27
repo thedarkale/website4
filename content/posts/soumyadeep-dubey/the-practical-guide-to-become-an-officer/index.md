@@ -1,34 +1,34 @@
 ---
 template: "post"
-slug: "a-practical-guide-to-become-an-officer"
+slug: "the-practical-guide-to-become-an-officer"
 
-title: "A Practical Guide to Become an Officer"
+title: "The Practical Guide to Become an Officer"
 author: "Soumyadeep Dubey"
 description: "Want to join the army?"
 
 cover: "./banner.jpeg"
 images:
     - banner:
-        feature: ./banner.jpg
+        feature: ./banner.jpeg
         credit:
             name: "Soumyadeep Dubey"
             info: "Pictures taken directly from the book"
             link: "https://www.linkedin.com/in/soumyadeep-dubey-9a6b16163"
     - content1:
-        feature: ./content1.jpg
+        feature: ./content1.jpeg
         credit:
             name: "Soumyadeep Dubey"
             info: "Pictures taken directly from the book"
             link: "https://www.linkedin.com/in/soumyadeep-dubey-9a6b16163"
     - content2:
-        feature: ./content2.jpg
+        feature: ./content2.jpeg
         credit:
             name: "Soumyadeep Dubey"
             info: "Pictures taken directly from the book"
             link: "https://www.linkedin.com/in/soumyadeep-dubey-9a6b16163"
 
 date: "2021-01-27T14:01:24.630Z"
-lastupdated: "2021-01-27T14:01:24.630Z"
+lastupdated: "2021-01-27T18:16:32.434Z"
 
 categories: 
     - Book Review
