@@ -9,25 +9,25 @@ description: ""
 cover: "./banner.jpg"
 
 images:
-  - banner:
-    url: "https://www.pexels.com/photo/calculator-and-pen-on-table-209224/"
-    feature: ./banner.jpg
-    credit:
-      info: "Taken from pexels"
-      link: "https://www.pexels.com/@pixabay"
+    - banner:
+        url: "https://www.pexels.com/photo/calculator-and-pen-on-table-209224/"
+        feature: ./banner.jpg
+        credit:
+            info: "Taken from www.pexels.com"
+            link: "https://www.pexels.com/@pixabay"      
 
 date: "2021-01-31T00:06:43.948Z"
 lastupdated: "2021-01-31T00:06:43.948Z"
 
 categories: 
-  - Economics
+    - Economics
 tags:
-  - finance
-  - business
-  - money
-  - stock market
-  - industry
-  - india
+    - finance
+    - business
+    - money
+    - stock market
+    - industry
+    - india
 keywords: ""
 
 ---

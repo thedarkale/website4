@@ -9,25 +9,25 @@ description: ""
 cover: "./banner.jpg"
 
 images:
-  - banner:
-    url: "https://www.pexels.com/photo/india-rupee-banknote-904735/"
-    feature: ./banner.jpg
-    credit:
-      info: "Taken from pexels.com"
-      link: "https://www.pexels.com/@habibqnet"
+    - banner:
+        url: "https://www.pexels.com/photo/india-rupee-banknote-904735/"
+        feature: ./banner.jpg
+        credit:
+            info: "Taken from pexels.com"
+            link: "https://www.pexels.com/@habibqnet"
 
 date: "2021-01-30T23:18:50.583Z"
 lastupdated: "2021-01-30T23:18:50.583Z"
 
 categories: 
-  - Economics
+    - Economics
 tags:
-  - finance
-  - business
-  - money
-  - stock market
-  - industry
-  - india
+    - finance
+    - business
+    - money
+    - stock market
+    - industry
+    - india
 keywords: ""
 
 ---
