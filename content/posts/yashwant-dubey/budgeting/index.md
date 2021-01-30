@@ -5,7 +5,7 @@ slug: "budgeting"
 title: "Budgeting"
 author: "Yashwant Dubey"
 
-cover: "./banner.jpg"
+cover: ./banner.jpg
 images:
     - banner:
         url: "https://www.pexels.com/photo/black-calculator-near-ballpoint-pen-on-white-printed-paper-53621/"
