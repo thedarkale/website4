@@ -7,7 +7,6 @@ author: "Yashwant Dubey"
 description: ""
 
 cover: "./banner.jpg"
-
 images:
     - banner:
         url: "https://www.pexels.com/photo/calculator-and-pen-on-table-209224/"

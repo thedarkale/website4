@@ -1,5 +1,4 @@
 ---
-template: "format"
 slug: "format"
 
 title: "Title of the Article"

@@ -6,8 +6,7 @@ title: "What is in Economic Survey 2020-2021?"
 author: "Yashwant Dubey"
 description: ""
 
-cover: ./banner.jpg
-
+cover: "./banner.jpg"
 images:
     - banner:
         url: "https://www.pexels.com/photo/india-rupee-banknote-904735/"
