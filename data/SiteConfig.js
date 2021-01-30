@@ -131,7 +131,7 @@ const config = {
     { 
       label: "Instagram", 
       url: "https://www.instagram.com/thedarkale", 
-      iconClassName: "fab facebook-f"
+      iconClassName: "fab codepen"
     },
     {
       label: "Twitter",

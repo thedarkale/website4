@@ -1,4 +1,5 @@
 ---
+template: "format"
 slug: "format"
 
 title: "Title of the Article"
@@ -24,6 +25,10 @@ categories:
 tags:
   - tag
 keywords: ""
+
+---
+
+![Banner](./banner.jpg)
 
 ---
 
