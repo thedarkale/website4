@@ -33,6 +33,12 @@ module.exports = {
         },
       },
     },
+    {
+      resolve: `gatsby-plugin-google-adsense`,
+      options: {
+        publisherId: `ca-pub-7985643285262298`
+      },
+    },    
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-lodash",
     {

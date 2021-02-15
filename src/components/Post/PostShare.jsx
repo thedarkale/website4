@@ -1,15 +1,13 @@
 import React from "react";
 import {
   FacebookShareButton,
-  TwitterShareButton,
-  TelegramShareButton,
-  WhatsappShareButton,
   FacebookShareCount,
-  RedditShareCount,
   FacebookIcon,
+  TwitterShareButton,
   TwitterIcon,
-  TelegramIcon,
-  WhatsappIcon
+  WhatsappShareButton,
+  WhatsappIcon,
+  RedditShareCount
 } from "react-share";
 import urljoin from "url-join";
 import config from "../../../data/SiteConfig";
@@ -39,10 +37,6 @@ const PostShare = ({ postNode, postPath, extraClass = "" }) => {
           {count => renderShareCount(count)}
         </FacebookShareCount>
       </FacebookShareButton>
-
-      <TelegramShareButton className="cursor-pointer" url={url}>
-        <TelegramIcon round size={iconSize} />
-      </TelegramShareButton>
     </div>
   )
 }

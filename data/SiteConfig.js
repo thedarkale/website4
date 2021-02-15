@@ -96,18 +96,18 @@ const config = {
     },
     {
       label: "Twitter",
-      url: "https://twitter.com/",
+      url: "https://twitter.com/thedarkaleblog",
       iconClassName: "fab twitter"
     },
     { 
       label: "Facebook", 
-      url: "https://www.facebook.com/", 
+      url: "https://www.instagram.com/thedarkale", 
       iconClassName: "fab facebook-f" 
     },
     { 
-      label: "Linkedin", 
-      url: "https://www.linkedin.com/", 
-      iconClassName: "fab linkedin-in"
+      label: "Instagram", 
+      url: "https://www.instagram.com/thedarkale", 
+      iconClassName: "fab facebook-f"
     },
   ],
   // Use for navigation
