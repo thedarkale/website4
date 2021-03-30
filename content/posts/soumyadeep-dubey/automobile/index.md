@@ -59,10 +59,11 @@ tags:
 
 ---
 
-## Automobile 
-What are the components of an Automobile?
-An automobile is a vehicle that has its power generating element. The very first automobile was built on January 29, 1886, by Karl Benz that runs on a gasoline engine. The machine was a tricycle with an engine of about 2/3 of horsepower. It was more practical than a horse wagon and also more reliable. Earlier few designs were made by the inventors including Jean Joseph Étienne Lenoir, who invented the first Internal Combustion engine (IC engine) in 1858, but his design, Hippomobile didn’t take much attention. 
+## What are the components of an Automobile? 
+An automobile is a vehicle that has its power generating element. The very first automobile was built on January 29, 1886, by Karl Benz that runs on a gasoline engine. The machine was a tricycle with an engine of about 2/3 of horsepower. It was more practical than a horse wagon and also more reliable. Earlier few designs were made by the inventors including Jean Joseph Étienne Lenoir, who invented the first Internal Combustion engine (IC engine) in 1858, but his design, Hippomobile didn’t take much attention.
+
 ![Mercedes](./img.jpg)
+
 Automobiles have proved to one of the most important inventions for mankind. We can’t imagine the modern world without the automobile as a centerpieace. At present, the automotive industry has become a trillion-dollar industry with over more than 70 million automobiles built in a year.
 Now let's look at the components of an automobile.
 1. The basic structure – It consists of a frame or chassis along with suspension systems, axels and wheels. The frame holds all the mechanical parts providing strength and stability to the vehicle.  
@@ -70,6 +71,7 @@ Now let's look at the components of an automobile.
 3. The transmission – Transfer of power from the engine to the rotating wheels is done by this system. There are different types of transmissions like AMT, Classic MT, DCT.
 4. The auxiliaries – All the electrical equipment present in the car like battery, ignition system, head and tail lights, direction indicators.
 5. The controls – It generally consists of a braking and steering system. The most important part of the vehicle as it provides control over the moving vehicle.
+
 ![Mercedes](./img1.jpg)
 
 
