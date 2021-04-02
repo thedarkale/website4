@@ -10,11 +10,11 @@ cover: "./banner.jpg"
 
 images:
   - banner:
-    url: "https://www.flickr.com/photos/sajivvijay/704975601/"
+    url: "https://flic.kr/p/xsTF6e"
     feature: ./banner.jpg
     credit:
       info: "Taken from flickr"
-      link: "https://www.flickr.com/photos/sajivvijay/"
+      link: "https://www.flickr.com/photos/lubnakarim/"
   - hotdog:
     url: "https://www.flickr.com/photos/30711218@N00/50836063518/"
     feature: ./hotdog.jpg
