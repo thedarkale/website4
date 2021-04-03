@@ -1,8 +1,8 @@
 ---
 template: "post"
-slug: "the-new-Oil"
+slug: "the-new-oil"
 
-title: "The New Oil of 21st Century"
+title: "Data: The New Oil of 21st Century"
 author: "Sarthak Dutt"
 description: ""
 
@@ -10,11 +10,11 @@ cover: "./banner.jpg"
 
 images:
   - banner:
-    url: "https://www.pexels.com/photo/heavy-equipment-on-body-of-water-under-blue-and-white-cloudy-skies-87236/"
+    url: "https://www.pexels.com/photo/photo-of-code-projected-over-woman-3861969/"
     feature: ./banner.jpg
     credit:
       info: "Taken from pexels.com"
-      link: "https://www.pexels.com/@umaraffan499"
+      link: "https://www.pexels.com/@thisisengineering"
 
 date: "2021-03-31T23:29:00.000Z"
 lastupdated: "2021-04-02T14:29:00.000Z"
@@ -24,7 +24,6 @@ categories:
 tags:
   - oil
   - Gulf countries 
-  - Oil 
   - Petroleum 
   - industries
   - Covid-19 
@@ -32,12 +31,20 @@ tags:
   - DNS tunnelling
   - SQL
   - Cyber
+  - GDPR
+  - privacy
+  - policy
+  - whatsapp
+  - cybersecurity
+  - PDP bill
+  - EU
+  - Data localisation  
 
 keywords: ""
 
 ---
 
-![Oil refinary in ocean](./banner.jpg)
+![Photo Of Code Projected Over Woman](./banner.jpg)
 
 ---
 

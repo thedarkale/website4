@@ -2,7 +2,7 @@
 template: "post"
 slug: "electric-vehicles"
 
-title: "Do Electric vehicles helpful for the environment?"
+title: "Are Electric Vehicles Good For The Environment?"
 author: "Yashwant Dubey"
 
 cover: "./banner.jpg"
