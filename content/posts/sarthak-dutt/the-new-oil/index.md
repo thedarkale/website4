@@ -17,7 +17,7 @@ images:
       link: "https://www.pexels.com/@thisisengineering"
 
 date: "2021-03-31T23:29:00.000Z"
-lastupdated: "2021-04-02T14:29:00.000Z"
+lastupdated: "2021-04-05T15:58:12.390Z"
 
 categories: 
   - Science
@@ -65,3 +65,8 @@ IT Rule of 2021 makes it mandatory for social media / OTT platforms to appoint a
 Right to privacy was not considered to be a Fundamental Right after many cases emerged and finally after scrapping down of the colonial era rule I e. section 377 of IPC we finally proved sexual intercourse between two consenting adults in a private place comes under the ambit of right to privacy. The new Data Protection is not very effective as the GDPR prescribes yet we need stringent laws on data privacy.
 
 The Data General Data Protection Regulation the EU’s parliament which was passed in the year 2018 and has broadened its scope across the world. The compliances in it are very stringent. Even if a company agrees to transfer data from Europe then it has to be deleted immediately after the purpose is fulfilled that refers to as the Purpose limitation Doctrine. Under the GDPR it gives exclusive rights to citizens of withdrawing their consent once they accept to give their data for processing. It means the data Fiduciary has to delete the data entirely & immediately from its database once the consent is withdrawn by Data Subject. In India, the Personal Data Protection Bill 2019 is yet to be finalized in the parliament but it needs some new alterations taking references from the Emerging technologies and regarding other nations as well.
+
+---
+
+## Additional Resource
+1. https://saveourprivacy.in/

@@ -17,7 +17,7 @@ images:
             link: "https://www.pexels.com/@zakaria-boumliha-140150"
 
 date: "2020-05-09T21:00:00.00Z"
-lastupdated: "2020-05-27T16:36:00.00Z"
+lastupdated: "2021-04-05T15:55:11.648Z"
 
 categories: 
     - Health
@@ -36,7 +36,7 @@ Bros have always been debating for which is the better way to train your body, i
 3. Body Weight Training
 4. Cardio Workout
 
-But for the sake of comparison I've merged 2. and 3. point into Weights because they both need some kind of weighted equipment to maneuver. Also point 1. and 4. have been merged to Bodyweight since it requires nothing but your body to build strength and endurance.
+But for the sake of comparison I've merged 1. and 2. point into Weights because they both need some kind of weighted equipment to maneuver. Also point 3. and 4. have been merged to Bodyweight since it requires nothing but your body to build strength and endurance.
 
 I'm not here to tell you what to do or what are the methods of doing these exercises. I'm here to establish a school of thought. Where? Inside you, yes! So you can take rational decisions while considering all the below mentioned points and make yourself your own exercise program.
 
