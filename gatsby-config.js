@@ -38,6 +38,10 @@ module.exports = {
       options: {
         publisherId: `ca-pub-7985643285262298`
       },
+    },
+    {
+      resolve: `gatsby-plugin-mdx`,
+      options: {},
     },    
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-lodash",

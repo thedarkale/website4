@@ -21,6 +21,28 @@ categories:
     - Video Games
 tags:
     - half life
+    - Valve
+    - Steam
+    - Gabe Newell
+    - Counter Strike
+    - Global Offensive
+    - First Person Shooter
+    - FPS
+    - Doom
+    - Unreal Tournament
+    - Physics
+    - Best Game of the Year
+    - Gordon Freeman
+    - Portal
+    - Gravity Gun
+    - Crowbar
+    - Headcrabs
+    - Zombies
+    - Combine
+    - City 17
+    - G Man
+    - Half Life 3
+    - Half Life 2
 
 ---
 
