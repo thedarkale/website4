@@ -2,7 +2,7 @@
 template: "post"
 slug: "the-power-generating-unit"
 
-title: The Power Generating Unit (check)
+title: The Power Generating Unit
 author: "Soumyadeep Dubey"
 
 cover: "./banner.png"
