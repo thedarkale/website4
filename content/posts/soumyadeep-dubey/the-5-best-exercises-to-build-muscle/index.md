@@ -37,12 +37,7 @@ images:
             info: "Taken from unsplash.com"
             link: "https://unsplash.com/@aloragriffiths"
     - man_doing_pullups:
-        url: "- women_doing_squats:
         url: "https://unsplash.com/photos/NXMZxygMw8o"
-        feature: ./women-squats.jpg
-        credit: 
-            info: "Taken from unsplash.com"
-            link: "https://unsplash.com/@yourhousefitness"
         feature: ./man-pullups.jpg
         credit: 
             info: "Taken from unsplash.com"
@@ -53,10 +48,10 @@ lastupdated: "2021-07-27T00:15:00.185Z"
 
 categories: 
     - Health
-tags: 
+tags:
     - Health
+    - Fitness
     - lifestyle
-    - fitness
 ---
 
 ![Man doing squats](./banner.jpg)
