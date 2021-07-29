@@ -18,7 +18,7 @@ images:
         url: "https://unsplash.com/photos/hvSTh6aTd28"
         feature: "two-buggies"
         credit: 
-            info: Image taken from unsplash.com
+            info: image_taken_from_unsplash.com
             link: "https://unsplash.com/@patricktkindt"
 
 date: "2021-04-19T00:27:00.185Z"
@@ -33,7 +33,7 @@ tags:
     - Competition
 ---
 
-![](./two-buggies.jpg)
+![two buggies](./two-buggies.jpg)
 
 ---
 
@@ -42,5 +42,4 @@ The next step are the dynamic tests which are ‘maneuverability test’, ‘sus
 Static events are held during the first 2 days of the events along with technical inspection and the brake test these include ‘cost event’, ‘design evaluation’, and ‘sales presentation’. In the cost event teams submit their cost report of the car in which judges analyze the cost of the vehicle and the most economical car gets the most point. Design evaluation is the event in which the knowledge of the teams are tested to their core basics , teams submit their design report which consists of every single technical detail about the car like specifications, dynamic calculations CAE report and according to this data judges ask teams to validate their design according to the data they presented. Students have to pitch their design in a 10 minute sales presentation to the judges who are made to be in a made manufacturing firm, team with the most promising business plan gets more points.
 The event ends with the final day 4 hour endurance race, the positions of the grid are decided by how much score a team has in their dynamic events. The team with most laps in the 4 hour long race is crowned the winner of the endurance race however the overall winner is decided by combining all the points from the Static and Dynamic events.
 
----
 
