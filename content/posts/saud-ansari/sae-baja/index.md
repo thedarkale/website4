@@ -11,12 +11,12 @@ images:
         url: "https://unsplash.com/photos/7E6QksW4PUY"
         feature: ./banner.jpg
         credit:
-            info: "Image taken from unsplash.com"
+            info: image_taken_from_unsplash.com
             link: https://unsplash.com/@suddenpanic
 
     - two buggies:
         url: "https://unsplash.com/photos/hvSTh6aTd28"
-        feature: "two_buggies"
+        feature: "two-buggies"
         credit: 
             info: image_taken_from_unsplash.com
             link: "https://unsplash.com/@patricktkindt"
