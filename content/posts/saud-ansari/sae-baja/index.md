@@ -11,27 +11,20 @@ images:
         url: "https://unsplash.com/photos/7E6QksW4PUY"
         feature: ./banner.jpg
         credit:
-            info: image_taken_from_unsplash.com
+            info: "image taken from unsplash.com"
             link: https://unsplash.com/@suddenpanic
 
-    - two buggies:
-        url: "https://unsplash.com/photos/hvSTh6aTd28"
-        feature: "two-buggies"
-        credit: 
-            info: image_taken_from_unsplash.com
-            link: "https://unsplash.com/@patricktkindt"
-
-date: "2021-04-19T00:27:00.185Z"
-lastupdated: "2021-04-19T12:16:46.00Z"
+date: "2021-04-19T00:27:00.000Z"
+lastupdated: "2021-04-19T00:27:00.000Z"
 
 categories: 
     - Automobile
 tags:
-    - Vehicles
-    - Competition
+    - vehicles
+    - competition
 ---
 
-![two buggies](./two-buggies.jpg)
+![two buggy vehicles on mountain](./banner.jpg)
 
 ---
 
