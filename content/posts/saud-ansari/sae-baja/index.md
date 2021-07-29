@@ -22,7 +22,7 @@ images:
             link: "https://unsplash.com/@patricktkindt"
 
 date: "2021-04-19T00:27:00.185Z"
-lastupdated: "2021-07-29T12:16:46.00Z"
+lastupdated: "2021-04-19T12:16:46.00Z"
 
 categories: 
     - Automobile
