@@ -16,7 +16,7 @@ images:
 
     - two buggies:
         url: "https://unsplash.com/photos/hvSTh6aTd28"
-        feature: "two-buggies"
+        feature: "two_buggies"
         credit: 
             info: image_taken_from_unsplash.com
             link: "https://unsplash.com/@patricktkindt"
