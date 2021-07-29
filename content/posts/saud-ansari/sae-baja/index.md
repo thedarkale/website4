@@ -26,8 +26,6 @@ lastupdated: "2021-04-19T12:16:46.00Z"
 
 categories: 
     - Automobile
-    - Technology
-    - Science
 tags:
     - Vehicles
     - Competition
