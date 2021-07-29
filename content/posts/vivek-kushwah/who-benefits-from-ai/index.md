@@ -22,6 +22,7 @@ categories:
 tags:
     - science
     - research
+    - technology
 ---
 
 ![AI robot and human hand](./banner.jpg)
