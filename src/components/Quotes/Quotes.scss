@@ -1,0 +1,40 @@
+
+.quoteContainer {
+    display: grid;
+    max-width: 72%;
+    display: flex;
+    border: 2px solid #000;
+}
+
+.quoteContainer .divider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 0.3em;
+}
+
+.divider p {
+    font-size: 17px;
+}
+
+.quoteContainer img {
+    max-width: calc(300px + 1vw);
+    max-height: calc(200px + 1vh);
+    display: block;
+    object-fit: cover;
+}
+
+@media screen and (max-width: 799px) {
+ 
+    .quoteContainer {
+        max-width: 100%;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .quoteContainer img {
+        object-fit: cover;
+    }
+} 
