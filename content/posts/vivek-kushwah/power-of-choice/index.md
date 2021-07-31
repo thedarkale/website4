@@ -8,11 +8,11 @@ author: "Vivek Kushwah"
 cover: "./banner.jpg"
 images:
     - banner:
-        url: "https://unsplash.com/photos/PXB7yEM5LVs"
+        url: "https://www.pexels.com/photo/banking-business-checklist-commerce-416322/"
         feature: ./banner.jpg
         credit:
             info: "image taken from unsplash.com"
-            link: https://unsplash.com/@jontyson
+            link: https://www.pexels.com/@pixabay
 
 date: "2021-07-30T11:24:00.000Z"
 lastupdated: "2021-07-30T11:24:00.000Z"
