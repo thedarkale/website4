@@ -5,7 +5,6 @@ const Header = ({ title }) => (
   <header className="border-bottom border-color-light-grey">
     <div className="container">
       <h1 className="margin-none padding-top-2 padding-bottom-2">
-        {/* <strong>Hello World</strong> */}
         <Quotes />
       </h1>
     </div>
