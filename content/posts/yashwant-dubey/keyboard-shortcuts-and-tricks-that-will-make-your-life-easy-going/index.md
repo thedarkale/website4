@@ -60,6 +60,7 @@ Let’s start learning these computer shortcut keys.
 - **Ctrl + V** This shortcut is used to Paste content from the clipboard.
 - **Ctrl + Z** This shortcut is used to undo an action, including undelete files (Undo Shortcut).
 - **Ctrl + Y** This shortcut is used to Redo an action (Redo Shortcut).
+- **Ctrl + P** This shortcut is used to open print page
 
 ## Shortcuts to open some frequently used Applications
 
@@ -71,6 +72,17 @@ Let’s start learning these computer shortcut keys.
 - **Windows key + V** - Open Clipboard bin.
 - **Windows key + S** - Search Windows
 - **Windows key + K** - Open the Connect Sidebar
+- **windows key + Q** - Open windows Quick search
+- **windows key + W** - Open whiteboard and full screen snip
+- **windows key + R** - Open run dialog box
+- **windows key + T** - Toggle through taskbar applications
+- **windows key + Q** - Open Windows Quick search
+- **windows key + U** - Open display settings
+- **windows key + P** - Choose a presentation display mode
+- **windows key + G** - Open Windows Game Barn
+- **windows key + Q** - Open Windows Voice Dictation
+- **windows key + C** - Open Windows Cortana
+- **windows key + Q** - Open windows Quick search
 - **Ctrl + Shift + Esc keys** - Task Manager Shortcut
 
 I hope by using these shortcuts your online life will be a little bit easy.
