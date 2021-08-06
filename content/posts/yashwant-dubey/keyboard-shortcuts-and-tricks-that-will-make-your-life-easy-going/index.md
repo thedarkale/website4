@@ -14,8 +14,8 @@ images:
         info: "Image taken from pexels.com"
         link: https://www.pexels.com/@mikhail-nilov
 
-date: "2021-08-03T22:37:00.000Z"
-lastupdated: "2021-08-03T22:37:00.000Z"
+date: "2021-08-03T21:37:00.000Z"
+lastupdated: "2021-08-03T21:37:00.000Z"
 
 categories:
   - Technology
@@ -52,7 +52,7 @@ Let’s start learning these computer shortcut keys.
 - **Windows key + PrtScn** This shortcut is used to Capture a full screenshot in the "Screenshots" folder.
 - **Windows key + Shift + S** This shortcut is used to capture part of the screen with Snip & Sketch.
 
-## Shortcus for handling files and Text
+## Shortcuts for handling files and Text
 
 - **Ctrl + A** This shortcut is used to select all text, files, pictures, or other objects while in a graphical environment i.e., desktop or word file (Select All Shortcut Key).
 - **Ctrl + C** This shortcut is used to Copy selected items to the clipboard. Selected items can be any file or text (Copy Shortcut Key).
@@ -60,6 +60,7 @@ Let’s start learning these computer shortcut keys.
 - **Ctrl + V** This shortcut is used to Paste content from the clipboard.
 - **Ctrl + Z** This shortcut is used to undo an action, including undelete files (Undo Shortcut).
 - **Ctrl + Y** This shortcut is used to Redo an action (Redo Shortcut).
+- **Ctrl + P** This shortcut is used to open print page
 
 ## Shortcuts to open some frequently used Applications
 
@@ -70,6 +71,18 @@ Let’s start learning these computer shortcut keys.
 - **Windows key + L** - Lock the device and returns you to the login screen
 - **Windows key + V** - Open Clipboard bin.
 - **Windows key + S** - Search Windows
+- **Windows key + K** - Open the Connect Sidebar
+- **windows key + Q** - Open windows Quick search
+- **windows key + W** - Open whiteboard and full screen snip
+- **windows key + R** - Open run dialog box
+- **windows key + T** - Toggle through taskbar applications
+- **windows key + Q** - Open Windows Quick search
+- **windows key + U** - Open display settings
+- **windows key + P** - Choose a presentation display mode
+- **windows key + G** - Open Windows Game Barn
+- **windows key + Q** - Open Windows Voice Dictation
+- **windows key + C** - Open Windows Cortana
+- **windows key + Q** - Open windows Quick search
 - **Ctrl + Shift + Esc keys** - Task Manager Shortcut
 
 I hope by using these shortcuts your online life will be a little bit easy.
