@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 import React from "react";
 import './style.scss';
 
@@ -7,6 +14,7 @@ const CustomQuote = ({ url, text, author }) => {
             <div class="main-container">
                 <div className="image-container">
                     <img src={url} alt="author" />
+                    <p>Quote of the day</p>
                 </div>
                 <div className="main">
                     <q>{text}</q>
