@@ -1,0 +1,70 @@
+.holder {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-height: 300px;
+    border: 1px solid #000;
+    max-width: 100%;
+  }
+
+.main-container .image-container {
+  width: 50%;
+  height: 220px;
+  min-height: 100%;
+}
+
+.image-container img {
+  width: 400px;
+  height: 100%;
+  object-fit: cover;
+}
+
+.main {
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.main q {
+  font-size: 25px;
+}
+.main p {
+    font-size: 20px;
+}
+
+/* responsive design  */
+@media screen and (max-width: 1000px) {
+  .holder {
+    width: 100vw;
+  }
+  .main-container {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .main-container .image-container {
+    width: 100%;
+  }
+
+  .image-container img {
+    width: 100%;
+  }
+
+  .main q {
+    text-align: center;
+    font-size: 17px;
+  }
+  .main p {
+    font-size: 15px;
+  }
+}
+
+}
