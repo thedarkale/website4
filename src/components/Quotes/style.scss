@@ -18,19 +18,10 @@
     min-height: 100%;
     background-color: #000;
   }
-
-  .main-container .image-container p {
-    position: relative;
-    text-align: center;
-    color: #ffffffa8;
-    text-transform: uppercase;
-    top: -50%;
-  }
-
   .image-container img {
     width: 400px;
     height: 100%;
-    object-fit: cover;
+    object-fit: contain;
     opacity: 0.8;
   }
 
@@ -47,9 +38,7 @@
     font-size: 25px;
   }
   .main p {
-    position: absolute;
     font-size: 20px;
-    bottom: 0%;
   }
 
   /* responsive design  */
