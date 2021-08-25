@@ -1,3 +1,4 @@
+@import "./sliderButton.css";
 .holder {
   display: flex;
   justify-content: center;
@@ -22,7 +23,6 @@
     width: 400px;
     height: 100%;
     object-fit: contain;
-    opacity: 0.8;
   }
 
   .main {
@@ -49,6 +49,7 @@
     .main-container {
       flex-direction: column;
       width: 100%;
+      background-color: #000;
     }
 
     .main-container .image-container {
@@ -62,6 +63,7 @@
     .main {
       width: 100%;
       height: 100%;
+      background-color: #fff;
     }
     .main q {
       text-align: center;
