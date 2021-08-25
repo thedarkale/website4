@@ -7,11 +7,11 @@ import Slider from "react-slick";
 const settings = {
     dots: true,
     infinite: true,
-    speed: 500,
     slidesToShow: 1,
+    speed: 500,
     slidesToScroll: 1,
     autoplay: true,
-    autoplaySpeed: 4000
+    autoplaySpeed: 6000,
 };
 
 const Quote = ({ children }) => {
