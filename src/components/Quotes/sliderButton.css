@@ -2,3 +2,10 @@
 .slick-next:before {
   color: #000;
 }
+
+@media screen and (max-width: 1000px) {
+  .slick-prev:before,
+  .slick-next:before {
+    display: none;
+  }
+}
