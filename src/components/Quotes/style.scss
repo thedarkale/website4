@@ -1,4 +1,5 @@
 @import "./sliderButton.css";
+
 .holder {
   display: flex;
   justify-content: center;
@@ -33,6 +34,7 @@
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
+    gap: 20px;
   }
   .main q {
     font-size: 25px;
@@ -41,7 +43,6 @@
     font-size: 20px;
   }
 
-  /* responsive design  */
   @media screen and (max-width: 1000px) {
     .holder {
       width: 100vw;
@@ -58,6 +59,7 @@
 
     .image-container img {
       width: 100%;
+      display: none;
     }
 
     .main {
@@ -73,4 +75,37 @@
       font-size: 15px;
     }
   }
+
+  /* responsive design  initial*/
+  // @media screen and (max-width: 1000px) {
+  //   .holder {
+  //     width: 100vw;
+  //   }
+  //   .main-container {
+  //     flex-direction: column;
+  //     width: 100%;
+  //     background-color: #000;
+  //   }
+
+  //   .main-container .image-container {
+  //     width: 100%;
+  //   }
+
+  //   .image-container img {
+  //     width: 100%;
+  //   }
+
+  //   .main {
+  //     width: 100%;
+  //     height: 100%;
+  //     background-color: #fff;
+  //   }
+  //   .main q {
+  //     text-align: center;
+  //     font-size: 17px;
+  //   }
+  //   .main p {
+  //     font-size: 15px;
+  //   }
+  // }
 }
