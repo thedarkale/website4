@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: jolly-wozniak-617472.netlify.app/sitemap.xml
