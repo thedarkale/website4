@@ -703,7 +703,7 @@
   Link: </component---src-templates-post-template-jsx-641fa333de569876ac1a.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/a-review-on-rich-dad-poor-dad/page-data.json>; rel=preload; as=fetch; crossorigin
-/privacy
+/about
   Link: </webpack-runtime-10e18110a7244a4dfaa3.js>; rel=preload; as=script
   Link: </framework-eb684e3e828ad13b3940.js>; rel=preload; as=script
   Link: </app-814fb5cd2b9970215e71.js>; rel=preload; as=script
@@ -714,7 +714,7 @@
   Link: </e5ddc9d07ff53122a1bea9b3e73594ce6812cb5e-25b21f06b69004d27cfb.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-jsx-0d50d375024af5c2bd06.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/privacy/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
 /contact
   Link: </webpack-runtime-10e18110a7244a4dfaa3.js>; rel=preload; as=script
   Link: </framework-eb684e3e828ad13b3940.js>; rel=preload; as=script
@@ -739,7 +739,7 @@
   Link: </component---src-templates-page-template-jsx-0d50d375024af5c2bd06.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/terms/page-data.json>; rel=preload; as=fetch; crossorigin
-/about
+/privacy
   Link: </webpack-runtime-10e18110a7244a4dfaa3.js>; rel=preload; as=script
   Link: </framework-eb684e3e828ad13b3940.js>; rel=preload; as=script
   Link: </app-814fb5cd2b9970215e71.js>; rel=preload; as=script
@@ -750,7 +750,7 @@
   Link: </e5ddc9d07ff53122a1bea9b3e73594ce6812cb5e-25b21f06b69004d27cfb.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-jsx-0d50d375024af5c2bd06.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/privacy/page-data.json>; rel=preload; as=fetch; crossorigin
 /search
   Link: </webpack-runtime-10e18110a7244a4dfaa3.js>; rel=preload; as=script
   Link: </framework-eb684e3e828ad13b3940.js>; rel=preload; as=script
