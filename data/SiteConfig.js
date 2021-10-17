@@ -33,9 +33,10 @@ const config = {
   homeHeader: "Home",
   // Use for page
   pathPrefixPagination: "/page", // Prefix path for pagination
-  pageNotFoundTitle: "Page Not Found", // 
+  pageNotFoundTitle: "Page Not Found", //
   pageNotFoundBtn: "Back to our site",
-  pageNotFoundContent: "Looks like you've followed a broken link or entered a URL that doesn't exist on this site.",
+  pageNotFoundContent:
+    "Looks like you've followed a broken link or entered a URL that doesn't exist on this site.",
   // Use for tag
   pathPrefixTag: "/tag", // Prefix path for tags
   tagHeader: "Posts tagged as", // use in header of tag-template page
@@ -60,19 +61,23 @@ const config = {
   sidebarLinks: [
     {
       label: "Fade To Black - Metallica",
-      url: "https://open.spotify.com/track/5nekfiTN45vlxG0eNJQQye?si=XKWTsXRLQ4mKegGWMv7KEg"
+      url:
+        "https://open.spotify.com/track/5nekfiTN45vlxG0eNJQQye?si=XKWTsXRLQ4mKegGWMv7KEg",
     },
     {
       label: "Flagpole Sitta - Harvey Danger",
-      url: "https://open.spotify.com/track/7cz70nyRXlCJOE85whEkgU?si=whQtZhArRju0ELh3XsbjMw"
+      url:
+        "https://open.spotify.com/track/7cz70nyRXlCJOE85whEkgU?si=whQtZhArRju0ELh3XsbjMw",
     },
     {
       label: "Rock And Roll Part 2 - The Glitter Band",
-      url: "https://open.spotify.com/track/7KkStID9wWJz2YawocOh5r?si=DBXNrJ8dS-aNF7YEjwQbJA"
+      url:
+        "https://open.spotify.com/track/7KkStID9wWJz2YawocOh5r?si=DBXNrJ8dS-aNF7YEjwQbJA",
     },
     {
       label: "Dreams - Fleetwood Mac",
-      url: "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz?si=THC1oF1aStCXEeIIUBqARQ"
+      url:
+        "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz?si=THC1oF1aStCXEeIIUBqARQ",
     },
   ],
   // Use for user info
@@ -87,27 +92,27 @@ const config = {
     {
       label: "Email",
       url: "contact.thedarkale@gmail.com",
-      iconClassName: "far envelope"
+      iconClassName: "far envelope",
     },
     {
       label: "Website",
       url: "https://thedarkale.com",
-      iconClassName: "fas globe"
+      iconClassName: "fas globe",
     },
     {
       label: "Twitter",
       url: "https://twitter.com/thedarkaleblog",
-      iconClassName: "fab twitter"
+      iconClassName: "fab twitter",
     },
-    { 
-      label: "Facebook", 
-      url: "https://www.instagram.com/thedarkale", 
-      iconClassName: "fab facebook-f" 
+    {
+      label: "Facebook",
+      url: "https://www.instagram.com/thedarkale",
+      iconClassName: "fab facebook-f",
     },
-    { 
-      label: "Instagram", 
-      url: "https://www.instagram.com/thedarkale", 
-      iconClassName: "fab facebook-f"
+    {
+      label: "Instagram",
+      url: "https://www.instagram.com/thedarkale",
+      iconClassName: "fab facebook-f",
     },
   ],
   // Use for navigation
@@ -118,30 +123,30 @@ const config = {
   ],
   // Use for footer
   socialLinks: [
-    { 
+    {
       label: "GitHub",
       url: "https://github.com/thedarkale",
-      iconClassName: "fab github"
+      iconClassName: "fab github",
     },
-    { 
-      label: "Facebook", 
-      url: "https://www.facebook.com/", 
-      iconClassName: "fab facebook-f"
+    {
+      label: "Facebook",
+      url: "https://www.facebook.com/",
+      iconClassName: "fab facebook-f",
     },
-    { 
-      label: "Linkedin", 
-      url: "https://www.linkedin.com/", 
-      iconClassName: "fab linkedin-in"
+    {
+      label: "Linkedin",
+      url: "https://www.linkedin.com/",
+      iconClassName: "fab linkedin-in",
     },
     {
       label: "Twitter",
       url: "https://twitter.com/",
-      iconClassName: "fab twitter"
+      iconClassName: "fab twitter",
     },
     {
       label: "RSS",
       url: "https://thedarkale.com/rss.xml",
-      iconClassName: "fas rss"
+      iconClassName: "fas rss",
     },
   ],
   footerLinks: [
@@ -155,7 +160,7 @@ const config = {
   copyright: "© 2021 thedarkale, All rights reserved.",
   // Use for manifest
   themeColor: "#2196F3", // Used for setting manifest and progress theme colors.
-  backgroundColor: "#FFF8FA" // Used for setting manifest background color.
+  backgroundColor: "#FFF8FA", // Used for setting manifest background color.
 };
 
 // Validate
