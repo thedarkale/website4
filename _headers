@@ -739,6 +739,18 @@
   Link: </website4/component---src-templates-page-template-jsx-0d50d375024af5c2bd06.js>; rel=preload; as=script
   Link: </website4/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </website4/page-data/contact/page-data.json>; rel=preload; as=fetch; crossorigin
+/website4/privacy
+  Link: </website4/webpack-runtime-ca0b28676e1ae3c5bae9.js>; rel=preload; as=script
+  Link: </website4/framework-eb684e3e828ad13b3940.js>; rel=preload; as=script
+  Link: </website4/app-f909a2556f1824ef362b.js>; rel=preload; as=script
+  Link: </website4/styles-08bc34de4ea872a98d93.js>; rel=preload; as=script
+  Link: </website4/5a689306-434da377e742470665d8.js>; rel=preload; as=script
+  Link: </website4/cb1608f2-85e699a69b6942d187b6.js>; rel=preload; as=script
+  Link: </website4/a9a7754c-d94c8e3e66e6ff3ce9ab.js>; rel=preload; as=script
+  Link: </website4/e5ddc9d07ff53122a1bea9b3e73594ce6812cb5e-8c491fe831daafa53e28.js>; rel=preload; as=script
+  Link: </website4/component---src-templates-page-template-jsx-0d50d375024af5c2bd06.js>; rel=preload; as=script
+  Link: </website4/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </website4/page-data/privacy/page-data.json>; rel=preload; as=fetch; crossorigin
 /website4/terms
   Link: </website4/webpack-runtime-ca0b28676e1ae3c5bae9.js>; rel=preload; as=script
   Link: </website4/framework-eb684e3e828ad13b3940.js>; rel=preload; as=script
@@ -763,18 +775,6 @@
   Link: </website4/component---src-templates-page-template-jsx-0d50d375024af5c2bd06.js>; rel=preload; as=script
   Link: </website4/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </website4/page-data/search/page-data.json>; rel=preload; as=fetch; crossorigin
-/website4/privacy
-  Link: </website4/webpack-runtime-ca0b28676e1ae3c5bae9.js>; rel=preload; as=script
-  Link: </website4/framework-eb684e3e828ad13b3940.js>; rel=preload; as=script
-  Link: </website4/app-f909a2556f1824ef362b.js>; rel=preload; as=script
-  Link: </website4/styles-08bc34de4ea872a98d93.js>; rel=preload; as=script
-  Link: </website4/5a689306-434da377e742470665d8.js>; rel=preload; as=script
-  Link: </website4/cb1608f2-85e699a69b6942d187b6.js>; rel=preload; as=script
-  Link: </website4/a9a7754c-d94c8e3e66e6ff3ce9ab.js>; rel=preload; as=script
-  Link: </website4/e5ddc9d07ff53122a1bea9b3e73594ce6812cb5e-8c491fe831daafa53e28.js>; rel=preload; as=script
-  Link: </website4/component---src-templates-page-template-jsx-0d50d375024af5c2bd06.js>; rel=preload; as=script
-  Link: </website4/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </website4/page-data/privacy/page-data.json>; rel=preload; as=fetch; crossorigin
 /website4/tag/esports
   Link: </website4/webpack-runtime-ca0b28676e1ae3c5bae9.js>; rel=preload; as=script
   Link: </website4/framework-eb684e3e828ad13b3940.js>; rel=preload; as=script
