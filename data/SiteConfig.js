@@ -5,7 +5,7 @@ const config = {
   siteTitleAlt: "blog website", // Alternative site title for SEO.
   siteLogo: "../content/images/logo.png", // Logo used for SEO and manifest.
   // siteUrl: "https://jolly-wozniak-617472.netlify.app", // Domain of your website without pathPrefix.
-  siteUrl: "https://thedarkale.github.io/",
+  siteUrl: "https://thedarkale.com",
   pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: "thedarkale official website", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
