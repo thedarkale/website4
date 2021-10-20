@@ -1,12 +1,13 @@
 const config = {
   // Site info
-  siteTitle: "thedakale", // Site title.
-  siteTitleShort: "thedakale", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
+  siteTitle: "thedarkale", // Site title.
+  siteTitleShort: "thedarkale", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "blog website", // Alternative site title for SEO.
   siteLogo: "../content/images/logo.png", // Logo used for SEO and manifest.
-  siteUrl: "https://jolly-wozniak-617472.netlify.app", // Domain of your website without pathPrefix.
+  // siteUrl: "https://jolly-wozniak-617472.netlify.app", // Domain of your website without pathPrefix.
+  siteUrl: "https://thedarkale.github.io/",
   pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
-  siteDescription: "thedakale official website", // Website description used for RSS feeds/meta description tag.
+  siteDescription: "thedarkale official website", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteLang: "en",
   siteFBAppID: "399626517562189", // FB Application ID for using app insights
