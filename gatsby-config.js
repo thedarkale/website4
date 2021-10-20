@@ -3,7 +3,7 @@ const config = require("./data/SiteConfig");
 
 module.exports = {
   // pathPrefix: config.pathPrefix === "" ? "/" : config.pathPrefix,
-  pathPrefix: `/website4`,
+  pathPrefix: "/website4",
   siteMetadata: {
     siteUrl: urljoin(config.siteUrl, config.pathPrefix),
     rssMetadata: {
