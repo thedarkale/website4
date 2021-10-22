@@ -55,6 +55,18 @@
   Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-4e364838b550723a2458.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
+/best-forex-trading-platforms-2021
+  Link: </webpack-runtime-638e9f0103268ee4afb4.js>; rel=preload; as=script
+  Link: </framework-eb684e3e828ad13b3940.js>; rel=preload; as=script
+  Link: </app-a7141459d5a1482fcdcb.js>; rel=preload; as=script
+  Link: </styles-08bc34de4ea872a98d93.js>; rel=preload; as=script
+  Link: </5a689306-434da377e742470665d8.js>; rel=preload; as=script
+  Link: </cb1608f2-85e699a69b6942d187b6.js>; rel=preload; as=script
+  Link: </a9a7754c-d94c8e3e66e6ff3ce9ab.js>; rel=preload; as=script
+  Link: </e5ddc9d07ff53122a1bea9b3e73594ce6812cb5e-0e57b20f37a87ca88487.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-jsx-641fa333de569876ac1a.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/best-forex-trading-platforms-2021/page-data.json>; rel=preload; as=fetch; crossorigin
 /rise-of-e-sports
   Link: </webpack-runtime-638e9f0103268ee4afb4.js>; rel=preload; as=script
   Link: </framework-eb684e3e828ad13b3940.js>; rel=preload; as=script
@@ -775,19 +787,6 @@
   Link: </component---src-templates-page-template-jsx-0d50d375024af5c2bd06.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/search/page-data.json>; rel=preload; as=fetch; crossorigin
-/tag/esports
-  Link: </webpack-runtime-638e9f0103268ee4afb4.js>; rel=preload; as=script
-  Link: </framework-eb684e3e828ad13b3940.js>; rel=preload; as=script
-  Link: </app-a7141459d5a1482fcdcb.js>; rel=preload; as=script
-  Link: </styles-08bc34de4ea872a98d93.js>; rel=preload; as=script
-  Link: </5a689306-434da377e742470665d8.js>; rel=preload; as=script
-  Link: </cb1608f2-85e699a69b6942d187b6.js>; rel=preload; as=script
-  Link: </a9a7754c-d94c8e3e66e6ff3ce9ab.js>; rel=preload; as=script
-  Link: </e5ddc9d07ff53122a1bea9b3e73594ce6812cb5e-0e57b20f37a87ca88487.js>; rel=preload; as=script
-  Link: </8012625d7d52cbd52830e3e7fbdb4ee79b119516-a556f978454cfb861c87.js>; rel=preload; as=script
-  Link: </component---src-templates-tag-template-jsx-ce6af3c67299743ec65a.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/tag/esports/page-data.json>; rel=preload; as=fetch; crossorigin
 /tag/computer
   Link: </webpack-runtime-638e9f0103268ee4afb4.js>; rel=preload; as=script
   Link: </framework-eb684e3e828ad13b3940.js>; rel=preload; as=script
@@ -801,6 +800,58 @@
   Link: </component---src-templates-tag-template-jsx-ce6af3c67299743ec65a.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tag/computer/page-data.json>; rel=preload; as=fetch; crossorigin
+/tag/trading
+  Link: </webpack-runtime-638e9f0103268ee4afb4.js>; rel=preload; as=script
+  Link: </framework-eb684e3e828ad13b3940.js>; rel=preload; as=script
+  Link: </app-a7141459d5a1482fcdcb.js>; rel=preload; as=script
+  Link: </styles-08bc34de4ea872a98d93.js>; rel=preload; as=script
+  Link: </5a689306-434da377e742470665d8.js>; rel=preload; as=script
+  Link: </cb1608f2-85e699a69b6942d187b6.js>; rel=preload; as=script
+  Link: </a9a7754c-d94c8e3e66e6ff3ce9ab.js>; rel=preload; as=script
+  Link: </e5ddc9d07ff53122a1bea9b3e73594ce6812cb5e-0e57b20f37a87ca88487.js>; rel=preload; as=script
+  Link: </8012625d7d52cbd52830e3e7fbdb4ee79b119516-a556f978454cfb861c87.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-jsx-ce6af3c67299743ec65a.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tag/trading/page-data.json>; rel=preload; as=fetch; crossorigin
+/tag/market
+  Link: </webpack-runtime-638e9f0103268ee4afb4.js>; rel=preload; as=script
+  Link: </framework-eb684e3e828ad13b3940.js>; rel=preload; as=script
+  Link: </app-a7141459d5a1482fcdcb.js>; rel=preload; as=script
+  Link: </styles-08bc34de4ea872a98d93.js>; rel=preload; as=script
+  Link: </5a689306-434da377e742470665d8.js>; rel=preload; as=script
+  Link: </cb1608f2-85e699a69b6942d187b6.js>; rel=preload; as=script
+  Link: </a9a7754c-d94c8e3e66e6ff3ce9ab.js>; rel=preload; as=script
+  Link: </e5ddc9d07ff53122a1bea9b3e73594ce6812cb5e-0e57b20f37a87ca88487.js>; rel=preload; as=script
+  Link: </8012625d7d52cbd52830e3e7fbdb4ee79b119516-a556f978454cfb861c87.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-jsx-ce6af3c67299743ec65a.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tag/market/page-data.json>; rel=preload; as=fetch; crossorigin
+/tag/investment
+  Link: </webpack-runtime-638e9f0103268ee4afb4.js>; rel=preload; as=script
+  Link: </framework-eb684e3e828ad13b3940.js>; rel=preload; as=script
+  Link: </app-a7141459d5a1482fcdcb.js>; rel=preload; as=script
+  Link: </styles-08bc34de4ea872a98d93.js>; rel=preload; as=script
+  Link: </5a689306-434da377e742470665d8.js>; rel=preload; as=script
+  Link: </cb1608f2-85e699a69b6942d187b6.js>; rel=preload; as=script
+  Link: </a9a7754c-d94c8e3e66e6ff3ce9ab.js>; rel=preload; as=script
+  Link: </e5ddc9d07ff53122a1bea9b3e73594ce6812cb5e-0e57b20f37a87ca88487.js>; rel=preload; as=script
+  Link: </8012625d7d52cbd52830e3e7fbdb4ee79b119516-a556f978454cfb861c87.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-jsx-ce6af3c67299743ec65a.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tag/investment/page-data.json>; rel=preload; as=fetch; crossorigin
+/tag/esports
+  Link: </webpack-runtime-638e9f0103268ee4afb4.js>; rel=preload; as=script
+  Link: </framework-eb684e3e828ad13b3940.js>; rel=preload; as=script
+  Link: </app-a7141459d5a1482fcdcb.js>; rel=preload; as=script
+  Link: </styles-08bc34de4ea872a98d93.js>; rel=preload; as=script
+  Link: </5a689306-434da377e742470665d8.js>; rel=preload; as=script
+  Link: </cb1608f2-85e699a69b6942d187b6.js>; rel=preload; as=script
+  Link: </a9a7754c-d94c8e3e66e6ff3ce9ab.js>; rel=preload; as=script
+  Link: </e5ddc9d07ff53122a1bea9b3e73594ce6812cb5e-0e57b20f37a87ca88487.js>; rel=preload; as=script
+  Link: </8012625d7d52cbd52830e3e7fbdb4ee79b119516-a556f978454cfb861c87.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-jsx-ce6af3c67299743ec65a.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tag/esports/page-data.json>; rel=preload; as=fetch; crossorigin
 /tag/gaming
   Link: </webpack-runtime-638e9f0103268ee4afb4.js>; rel=preload; as=script
   Link: </framework-eb684e3e828ad13b3940.js>; rel=preload; as=script
@@ -3479,19 +3530,6 @@
   Link: </component---src-templates-tag-template-jsx-ce6af3c67299743ec65a.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tag/inflation/page-data.json>; rel=preload; as=fetch; crossorigin
-/tag/investment
-  Link: </webpack-runtime-638e9f0103268ee4afb4.js>; rel=preload; as=script
-  Link: </framework-eb684e3e828ad13b3940.js>; rel=preload; as=script
-  Link: </app-a7141459d5a1482fcdcb.js>; rel=preload; as=script
-  Link: </styles-08bc34de4ea872a98d93.js>; rel=preload; as=script
-  Link: </5a689306-434da377e742470665d8.js>; rel=preload; as=script
-  Link: </cb1608f2-85e699a69b6942d187b6.js>; rel=preload; as=script
-  Link: </a9a7754c-d94c8e3e66e6ff3ce9ab.js>; rel=preload; as=script
-  Link: </e5ddc9d07ff53122a1bea9b3e73594ce6812cb5e-0e57b20f37a87ca88487.js>; rel=preload; as=script
-  Link: </8012625d7d52cbd52830e3e7fbdb4ee79b119516-a556f978454cfb861c87.js>; rel=preload; as=script
-  Link: </component---src-templates-tag-template-jsx-ce6af3c67299743ec65a.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/tag/investment/page-data.json>; rel=preload; as=fetch; crossorigin
 /tag/muscle
   Link: </webpack-runtime-638e9f0103268ee4afb4.js>; rel=preload; as=script
   Link: </framework-eb684e3e828ad13b3940.js>; rel=preload; as=script
