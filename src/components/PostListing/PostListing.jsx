@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Article from "./Article";
+import Quote from '../Quotes/Quote'
 
 class PostListing extends Component {
   constructor(props) {
@@ -29,6 +30,7 @@ class PostListing extends Component {
     return (
       <>
         <div className="post-listing-container">
+          <Quote />
           {postList.map((post, index) => {
             if (index < maxPosts)
               return (
