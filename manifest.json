@@ -1,5 +1,8 @@
 {
   "main.js": "render-page.js",
   "main.js.map": "render-page.js.map",
+  "static/James_Cameron_by_Gage_Skidmore.jpg": "static/James_Cameron_by_Gage_Skidmore-3d7c7542228f8b0df1bb1f5e35eae000.jpg",
+  "static/Nelson_Mandela_1994.jpg": "static/Nelson_Mandela_1994-3824c0c678a307de03da75690651a4ea.jpg",
+  "static/Oprah_in_2014.jpg": "static/Oprah_in_2014-f4c6e0ca432750389e8b8da764076136.jpg",
   "static/brand.png": "static/brand-17ee0880fc688317b100f189af0f9ac3.png"
 }
