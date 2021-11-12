@@ -18,7 +18,6 @@ $sidebar-desktop-width: 330px;
     flex-direction: row;
     .content-wrapper {
       padding-right: 3rem;
-      border-right: 1px solid #ececec;
       width: calc(100% - #{$sidebar-desktop-width});
     }
     .sidebar-wrapper {
