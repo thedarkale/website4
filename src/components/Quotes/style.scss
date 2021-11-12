@@ -32,9 +32,11 @@
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
+    gap: 30px;
   }
   .main q {
     font-size: 25px;
+    line-height: 30px;
   }
   .main p {
     font-size: 20px;
