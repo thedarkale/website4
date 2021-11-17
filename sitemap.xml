@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://thedarkale.com/techno-feudalism</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thedarkale.com/11-proven-ways-to-drive-traffic-to-your-website</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thedarkale.com/best-forex-trading-platforms-2021</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thedarkale.com/rise-of-e-sports</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -62,6 +63,9 @@
 <url> <loc>https://thedarkale.com/terms</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thedarkale.com/search</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thedarkale.com/privacy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thedarkale.com/tag/technology</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thedarkale.com/tag/faang</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thedarkale.com/tag/society</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thedarkale.com/tag/computer</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thedarkale.com/tag/internet</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thedarkale.com/tag/seo</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -73,7 +77,6 @@
 <url> <loc>https://thedarkale.com/tag/science</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thedarkale.com/tag/science/page/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thedarkale.com/tag/development</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://thedarkale.com/tag/technology</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thedarkale.com/tag/songs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thedarkale.com/tag/music</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thedarkale.com/tag/lifestyle</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -328,6 +331,7 @@
 <url> <loc>https://thedarkale.com/tag/body-building</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thedarkale.com/tag/weights</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thedarkale.com/tag/realities</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thedarkale.com/category/culture</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thedarkale.com/category/technology</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thedarkale.com/category/technology/page/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thedarkale.com/category/science</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -343,7 +347,6 @@
 <url> <loc>https://thedarkale.com/category/economics</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thedarkale.com/category/book-review</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thedarkale.com/category/finance</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://thedarkale.com/category/culture</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thedarkale.com/category/travel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thedarkale.com/category/combat</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thedarkale.com/category/movie</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
