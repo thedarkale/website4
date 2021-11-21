@@ -26,7 +26,7 @@ tags:
     - society
 ---
 
-![Lords and peasants in a group](./banner.jpg)
+![Lords and peasants in a group](./image.jpg)
 
 Anti-Google law passed in **South Korea**, **Federal Trade Commission** filed anti trust law against *Facebook*, *Apple* payment gateaways no more holds monopoly over it's users they can now use other payment gateaways. *Australia* passes landmark law requiring Google and other social media companies to pay to the news agencies.
 
