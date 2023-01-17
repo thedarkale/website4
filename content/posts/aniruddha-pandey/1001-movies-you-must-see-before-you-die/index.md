@@ -114,9 +114,14 @@ images:
         url: "https://en.wikipedia.org/wiki/File:Jurassic_Park_poster.jpg"
         credit:
         	info: "By Source, Fair use, https://en.wikipedia.org/w/index.php?curid=897579"
+    - seven_years_in_tibet:
+        feature: ./seven-years-in-tibet.jpeg
+        url: "https://en.wikipedia.org/wiki/File:Seven_Years_in_Tibet_cover.jpeg"
+        credit:
+            info: "The poster art can or could be obtained from TriStar Pictures (USA) Entertainment Film Distributors (UK)."
 
 date: "2020-11-12T18:33:00.00Z"
-lastupdated: "2020-11-13T14:46:00.00Z"
+lastupdated: "2021-11-21T22:53:13.499Z"
 
 categories: 
     - Movie
@@ -210,6 +215,12 @@ The movie does not make sense for most people, but what does anyway?
 ## 20. Jurassic Park (1993 ‧ Adventure/Sci-fi ‧ 2h 7m)
 ![Jurassic Park 1993](./jurassic-park.jpg)  
 This movie is more than brilliant special effects.
+
+## 21. Seven Years in Tibet (1997 ‧ Drama/War ‧ 2h 16m)
+![Seven Years in Tibet 1997](./seven-years-in-tibet.jpeg)  
+Bonds are made bonds are broken, humanity prevails. Based on a true story and Austrian mountaineer Heinrich Harrer's 1952 memoir [Seven Years in Tibet](https://www.goodreads.com/book/show/270032.Seven_Years_in_Tibet).
+
+...to be updated
 
 ---
 ### Additional sources
