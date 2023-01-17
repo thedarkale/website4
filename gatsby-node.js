@@ -92,8 +92,6 @@ exports.createPages = async ({ graphql, actions }) => {
       });
     }
 
-    console.log("========>", tagSet);
-
     if (edge.node.frontmatter.categories) {
       edge.node.frontmatter.categories.forEach((category) => {
         categorySet.add(category);
