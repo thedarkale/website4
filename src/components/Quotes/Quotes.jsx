@@ -15,7 +15,6 @@ const settings = {
 };
 
 const Quote = ({ children }) => {
-
     return (
         <Slider {...settings}>
             {children}

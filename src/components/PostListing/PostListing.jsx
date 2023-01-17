@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Article from "./Article";
-import Quote from '../Quotes/Quote'
+import Quote from "../Quotes/Quote";
 
 class PostListing extends Component {
   constructor(props) {
