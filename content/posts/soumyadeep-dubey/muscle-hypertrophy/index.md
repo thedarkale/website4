@@ -1,30 +1,30 @@
 ---
-template: "post"
-slug: "muscle-hypertrophy"
+template: 'post'
+slug: 'muscle-hypertrophy'
 
-title: "Muscle Hypertrophy"
-author: "Somyadeep Dubey"
+title: 'Muscle Hypertrophy'
+author: 'Somyadeep Dubey'
 
-cover: "./banner.jpg"
+cover: './banner.jpg'
 images:
     - banner:
-        url: "https://www.pexels.com/photo/woman-lifting-two-dumbells-on-both-hands-in-front-of-mirror-1886487/"
-        feature: ./banner.jpg
-        credit:
-            info: "Taken from pexels.com"
-            link: "https://www.pexels.com/@eduardo-romero-817034"
+          url: 'https://www.pexels.com/photo/woman-lifting-two-dumbells-on-both-hands-in-front-of-mirror-1886487/'
+          feature: ./banner.jpg
+          credit:
+              info: 'Taken from pexels.com'
+              link: 'https://www.pexels.com/@eduardo-romero-817034'
     - lift:
-        url: "https://www.pexels.com/photo/woman-lifting-green-and-black-barbell-1566404/"
-        feature: ./lift.jpg
-        credit:
-            info: "Taken from Pexels"
-            name: "Frans Van Heerden"
-            link: "https://www.pexels.com/@frans-van-heerden-201846"
+          url: 'https://www.pexels.com/photo/woman-lifting-green-and-black-barbell-1566404/'
+          feature: ./lift.jpg
+          credit:
+              info: 'Taken from Pexels'
+              name: 'Frans Van Heerden'
+              link: 'https://www.pexels.com/@frans-van-heerden-201846'
 
-date: "2021-01-23T20:52:47.987Z"
-lastupdated: "2021-01-23T20:52:47.987Z"
+date: '2021-01-23T20:52:47.987Z'
+lastupdated: '2021-01-23T20:52:47.987Z'
 
-categories: 
+categories:
     - Health
 tags:
     - muscle
@@ -53,12 +53,14 @@ How does different in training change the aesthetics and strength of both the at
 Muscle hypertrophy is the increase in the size of muscle tissue. When you do exercise your muscle gets a pump, this pump is called muscle hypertrophy.
 
 There are two types of Muscle Hypertrophy
-1. Myofibrillar – Increase in the density of muscle fibres. Strength is increased. 
+
+1. Myofibrillar – Increase in the density of muscle fibres. Strength is increased.
 2. Sarcoplasmic – Increase in volume and mass. Glycogen storage of muscle is increased.
 
 Bodybuilder’s primary aim is to increase the size of their muscle, so they focus on Sarcoplasmic hypertrophy more. Whereas other athletes give more attention to Myofibrillar hypertrophy. There are sports in which athlete want to have more muscle mass, in that case, they try to hit both.
 
 ---
+
 ### Additional sources
 
-- Suggested song: [Believer - Imagine Dragons](https://youtu.be/7wtfhZwyrcc)
+-   Suggested song: [Believer - Imagine Dragons](https://youtu.be/7wtfhZwyrcc)

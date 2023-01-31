@@ -1,28 +1,28 @@
 ---
-template: "post"
-slug: "rise-of-e-sports"
+template: 'post'
+slug: 'rise-of-e-sports'
 
-title: "Rise of esports"
-author: "Vivek Kushwah"
+title: 'Rise of esports'
+author: 'Vivek Kushwah'
 
-cover: "./banner.jpg"
+cover: './banner.jpg'
 images:
-  - banner:
-      url: "https://www.pexels.com/photo/a-woman-playing-league-of-legends-7915357/"
-      feature: ./banner.jpg
-      credit:
-        info: "image taken from pexels.com"
-        link: "https://www.pexels.com/@rodnae-prod"
+    - banner:
+          url: 'https://www.pexels.com/photo/a-woman-playing-league-of-legends-7915357/'
+          feature: ./banner.jpg
+          credit:
+              info: 'image taken from pexels.com'
+              link: 'https://www.pexels.com/@rodnae-prod'
 
-date: "2021-10-19T20:28:28.244Z"
-lastupdated: "2021-10-19T20:28:28.244Z"
+date: '2021-10-19T20:28:28.244Z'
+lastupdated: '2021-10-19T20:28:28.244Z'
 
 categories:
-  - Technology
+    - Technology
 tags:
-  - esports
-  - computer
-  - gaming
+    - esports
+    - computer
+    - gaming
 ---
 
 ![girl playing computer game](./banner.jpg)

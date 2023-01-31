@@ -1,63 +1,63 @@
 ---
-template: "post"
-slug: "the-5-best-exercises-to-build-muscles"
+template: 'post'
+slug: 'the-5-best-exercises-to-build-muscles'
 
-title: "The 5 Best Exercieses To Build Muscles"
-author: "Soumyadeep Dubey"
+title: 'The 5 Best Exercieses To Build Muscles'
+author: 'Soumyadeep Dubey'
 
-cover: "./banner.jpg"
+cover: './banner.jpg'
 images:
-  - banner:
-      url: "https://unsplash.com/photos/TuzrzArccvc"
-      feature: ./banner.jpg
-      credit:
-        info: "Taken from unsplash.com"
-        link: "https://unsplash.com/@aloragriffiths"
+    - banner:
+          url: 'https://unsplash.com/photos/TuzrzArccvc'
+          feature: ./banner.jpg
+          credit:
+              info: 'Taken from unsplash.com'
+              link: 'https://unsplash.com/@aloragriffiths'
 
-  - women_doing_barbell_rows:
-      url: "https://www.flickr.com/photos/crossfit_h2o/15361713135/in/photolist-ppsN82-kyoDuB-kyqQGm-kyoEJa-o9f9fL-o9gdgr-o9gjAR-kyqZ39-2jXE1p5-2kS1LoB-nQaFQN-p6Wa6r-o7Enbp-o7yKcY-p6WaCP-pz6Ycj-m2vCcj-m2u8CD-beaKHB-ed57XJ-28miHWJ-RHc2ti-kyoHaH-kyqVjs-kyoFmH-MJqpjo-W9M7w2-GddkKs-q3vkQF-pyRDnH-25iKpLL-pLkLcb-phB9dx-bAsED3-2hZ383R-fjct6h-2jyahau-28gLrwz-4QYNNY-Wz3SpB-k1nx6P-MH1b7y-2jyah8R-2jy9dyx-2jyah5p-2jy5Xrm-2jyah8f-p1aAcP-k1nx4V-k1ohn6"
-      feature: ./barbell-rows.jpg
-      credit:
-        info: "Taken from flickr.com"
-        link: "https://www.flickr.com/photos/crossfit_h2o/"
+    - women_doing_barbell_rows:
+          url: 'https://www.flickr.com/photos/crossfit_h2o/15361713135/in/photolist-ppsN82-kyoDuB-kyqQGm-kyoEJa-o9f9fL-o9gdgr-o9gjAR-kyqZ39-2jXE1p5-2kS1LoB-nQaFQN-p6Wa6r-o7Enbp-o7yKcY-p6WaCP-pz6Ycj-m2vCcj-m2u8CD-beaKHB-ed57XJ-28miHWJ-RHc2ti-kyoHaH-kyqVjs-kyoFmH-MJqpjo-W9M7w2-GddkKs-q3vkQF-pyRDnH-25iKpLL-pLkLcb-phB9dx-bAsED3-2hZ383R-fjct6h-2jyahau-28gLrwz-4QYNNY-Wz3SpB-k1nx6P-MH1b7y-2jyah8R-2jy9dyx-2jyah5p-2jy5Xrm-2jyah8f-p1aAcP-k1nx4V-k1ohn6'
+          feature: ./barbell-rows.jpg
+          credit:
+              info: 'Taken from flickr.com'
+              link: 'https://www.flickr.com/photos/crossfit_h2o/'
 
-  - man_doing_bench_press:
-      url: "https://unsplash.com/photos/NXMZxygMw8o"
-      feature: ./bench-press.jpg
-      credit:
-        info: "Taken from unsplash.com"
-        link: "https://unsplash.com/@nate_dumlao"
+    - man_doing_bench_press:
+          url: 'https://unsplash.com/photos/NXMZxygMw8o'
+          feature: ./bench-press.jpg
+          credit:
+              info: 'Taken from unsplash.com'
+              link: 'https://unsplash.com/@nate_dumlao'
 
-  - women_doing_squats:
-      url: "https://unsplash.com/photos/pE5oWO__uDI"
-      feature: ./women-squats.jpg
-      credit:
-        info: "Taken from unsplash.com"
-        link: "https://unsplash.com/@yourhousefitness"
+    - women_doing_squats:
+          url: 'https://unsplash.com/photos/pE5oWO__uDI'
+          feature: ./women-squats.jpg
+          credit:
+              info: 'Taken from unsplash.com'
+              link: 'https://unsplash.com/@yourhousefitness'
 
-  - man_doing_deadlift:
-      url: "https://unsplash.com/photos/E_y9X4kNzxs"
-      feature: ./man-deadlift.jpg
-      credit:
-        info: "Taken from unsplash.com"
-        link: "https://unsplash.com/@aloragriffiths"
+    - man_doing_deadlift:
+          url: 'https://unsplash.com/photos/E_y9X4kNzxs'
+          feature: ./man-deadlift.jpg
+          credit:
+              info: 'Taken from unsplash.com'
+              link: 'https://unsplash.com/@aloragriffiths'
 
-  - man_doing_pullups:
-      url: "https://unsplash.com/photos/NXMZxygMw8o"
-      feature: ./man-pullups.jpg
-      credit:
-        info: "Taken from unsplash.com"
-        link: "https://unsplash.com/@visualsbyroyalz"
+    - man_doing_pullups:
+          url: 'https://unsplash.com/photos/NXMZxygMw8o'
+          feature: ./man-pullups.jpg
+          credit:
+              info: 'Taken from unsplash.com'
+              link: 'https://unsplash.com/@visualsbyroyalz'
 
-date: "2021-04-21T00:15:00.185Z"
-lastupdated: "2021-07-27T00:15:00.185Z"
+date: '2021-04-21T00:15:00.185Z'
+lastupdated: '2021-07-27T00:15:00.185Z'
 
 categories:
-  - Health
+    - Health
 tags:
-  - Health
-  - Fitness
-  - lifestyle
+    - Health
+    - Fitness
+    - lifestyle
 ---
 
 ![Man doing squats](./banner.jpg)

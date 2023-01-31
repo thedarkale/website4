@@ -1,25 +1,25 @@
 ---
-template: "post"
-slug: "the-last-time-you-watched-once-upon-a-time-in-america-you-didnt"
+template: 'post'
+slug: 'the-last-time-you-watched-once-upon-a-time-in-america-you-didnt'
 
 title: "The last time you watched 'Once Upon a Time in America', you didn't!"
-author: "Aniruddha Pandey"
+author: 'Aniruddha Pandey'
 
-description: "One Upon a Time in America even after 36 years still has some mysteries around it yet to be discovered. The movie never shown the way it was planned and a legacy for ages to come."
+description: 'One Upon a Time in America even after 36 years still has some mysteries around it yet to be discovered. The movie never shown the way it was planned and a legacy for ages to come.'
 
-cover: "./banner.png"
+cover: './banner.png'
 images:
     - banner:
-        feature: ./banner.png
-        credit:
-            info: "Screenshot from the movie once upon a time in america"
-            name: "Aniruddha Pandey"
-            link: "https://aniruddha-pandey.tech"
+          feature: ./banner.png
+          credit:
+              info: 'Screenshot from the movie once upon a time in america'
+              name: 'Aniruddha Pandey'
+              link: 'https://aniruddha-pandey.tech'
 
-date: "2020-12-25T15:01:24.45Z"
-lastupdated: "2020-12-25T15:01:24.45Z"
+date: '2020-12-25T15:01:24.45Z'
+lastupdated: '2020-12-25T15:01:24.45Z'
 
-categories: 
+categories:
     - Movie
 tags:
     - interpretation
@@ -37,7 +37,7 @@ tags:
 
 Curator of the 60s Dollars trilogy (_A Fistful of Dollars, For A Few Dollars More and The Good, the Bad and the Ugly_) and equally appreciated _Once Upon a Time_ trilogy which ends with his gangster epic _One Upon a Time in America_ and **Sergio Leone** demise. Even though it had occupied so much of his career, this movie proved to bear fruit. Leone left us with his masterpieces to adore and decipher the ambiguity he cherished in his ambitious work.
 
-Now to justify the title and make sense of this article, come with me to the story behind the movie with the    most decorated cinematic experience, pitched perfectly with the underlying theme providing a sense of poetry in the movie. 
+Now to justify the title and make sense of this article, come with me to the story behind the movie with the most decorated cinematic experience, pitched perfectly with the underlying theme providing a sense of poetry in the movie.
 
 It all starts with the several injustices that happened to **Leone’s** original masterpiece, the real director’s cut, which eventually never gets aired anywhere due to the various cuts made before it even came to any film censor board. We have created a timeline on how this happened.
 
@@ -77,11 +77,12 @@ It’s a paradox! Maxie/Secretary Bailey was never there, not even Noodles as al
 After watching this movie we can understand what gives a passionate man and 10 years to a single film. Soon after he died 5 years after the first release of this movie it remains a classic from time to come. Things this movie communicated far surpasses the script, somewhere in those 34mm Cellulose Nitrate film rolls lies our life stories, yet to be discovered, yet to be heard.
 
 ---
+
 ### Additional sources
 
-- Suggested song: [Once Upon a Time in America - The Danish National Symphony Orchestra](https://youtu.be/yRDDflQlvgc)
-- Once Upon a Time in America [Wikipedia](https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_America) page
-- Alternate Versions from [IMDB](https://www.imdb.com/title/tt0087843/alternateversions)
-- [13 Epic Facts About Once Upon a Time in America](https://www.mentalfloss.com/article/70066/13-epic-facts-about-once-upon-time-america) by Eric D Snider
-- Release Info from [IMDB](https://www.imdb.com/title/tt0087843/releaseinfo)
-- [How ‘Once Upon a Time in America’ Became Sergio Leone’s Butchered Swan Song • Cinephilia & Beyond](https://cinephiliabeyond.org/once-upon-a-time-in-america/) by Koraljka Suton
+-   Suggested song: [Once Upon a Time in America - The Danish National Symphony Orchestra](https://youtu.be/yRDDflQlvgc)
+-   Once Upon a Time in America [Wikipedia](https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_America) page
+-   Alternate Versions from [IMDB](https://www.imdb.com/title/tt0087843/alternateversions)
+-   [13 Epic Facts About Once Upon a Time in America](https://www.mentalfloss.com/article/70066/13-epic-facts-about-once-upon-time-america) by Eric D Snider
+-   Release Info from [IMDB](https://www.imdb.com/title/tt0087843/releaseinfo)
+-   [How ‘Once Upon a Time in America’ Became Sergio Leone’s Butchered Swan Song • Cinephilia & Beyond](https://cinephiliabeyond.org/once-upon-a-time-in-america/) by Koraljka Suton

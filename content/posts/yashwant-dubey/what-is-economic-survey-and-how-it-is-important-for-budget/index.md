@@ -1,38 +1,35 @@
 ---
-template: "post"
-slug: "what-is-economic-survey-and-how-it-is-important-for-budget"
+template: 'post'
+slug: 'what-is-economic-survey-and-how-it-is-important-for-budget'
 
-title: "What is Economic Survey and How it is important for Budget?"
-author: "Yashwant Dubey"
-description: ""
+title: 'What is Economic Survey and How it is important for Budget?'
+author: 'Yashwant Dubey'
+description: ''
 
-cover: "./banner.jpg"
+cover: './banner.jpg'
 
 images:
-  - banner:
-    url: "https://www.pexels.com/photo/calculator-and-pen-on-table-209224/"
-    feature: ./banner.jpg
-    credit:
-      info: "Taken from pexels"
-      link: "https://www.pexels.com/@pixabay"
+    - banner:
+      url: 'https://www.pexels.com/photo/calculator-and-pen-on-table-209224/'
+      feature: ./banner.jpg
+      credit:
+          info: 'Taken from pexels'
+          link: 'https://www.pexels.com/@pixabay'
 
-date: "2021-01-31T00:06:43.948Z"
-lastupdated: "2021-01-31T00:06:43.948Z"
+date: '2021-01-31T00:06:43.948Z'
+lastupdated: '2021-01-31T00:06:43.948Z'
 
-categories: 
-  - Economics
+categories:
+    - Economics
 tags:
-  - finance
-  - business
-  - money
-  - stock market
-  - industry
-  - india
-keywords: ""
-
----
-
-![Calculator and Pen on Table](./banner.jpg)
+    - finance
+    - business
+    - money
+    - stock market
+    - industry
+    - india
+keywords: ''
+---![Calculator and Pen on Table](./banner.jpg)
 
 ---
 

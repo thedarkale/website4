@@ -1,29 +1,29 @@
 ---
-template: "post"
-slug: "best-forex-trading-platforms-2021"
+template: 'post'
+slug: 'best-forex-trading-platforms-2021'
 
-title: "Best Forex Trading Platforms 2021"
-author: "Vivek Kushwah"
+title: 'Best Forex Trading Platforms 2021'
+author: 'Vivek Kushwah'
 
-cover: "./banner.jpg"
+cover: './banner.jpg'
 images:
-  - banner:
-      url: "https://www.pexels.com/photo/close-up-photo-of-monitor-159888/"
-      feature: ./banner.jpg
-      credit:
-        info: "image taken from pexels.com"
-        link: "https://www.pexels.com/@energepic-com-27411"
+    - banner:
+          url: 'https://www.pexels.com/photo/close-up-photo-of-monitor-159888/'
+          feature: ./banner.jpg
+          credit:
+              info: 'image taken from pexels.com'
+              link: 'https://www.pexels.com/@energepic-com-27411'
 
-date: "2021-10-22T20:33:04.71Z"
-lastupdated: "2021-10-22T20:33:04.71Z"
+date: '2021-10-22T20:33:04.71Z'
+lastupdated: '2021-10-22T20:33:04.71Z'
 
 categories:
-  - Technology
+    - Technology
 tags:
-  - computer
-  - trading
-  - market
-  - investment
+    - computer
+    - trading
+    - market
+    - investment
 ---
 
 ![computer with trading graph](./banner.jpg)
@@ -67,17 +67,17 @@ Features of the demo account are designed to integrate new users into their exis
 
 Trading platforms launch extensive marketing campaigns that get their demo account to reach an audience of prospects.
 
-- Following the herd mentality is a no-go when it comes to Forex trading. Before you start following your neighbour's advice in forex trading, we want to tell you some facts.
-- Eighty percent of the traders lose money on online forex platforms. It is a statistically proven fact that whichever way the vast majority of traders are trading, whether that's long or short, this is usually the wrong direction. So you might want to reconsider your uncle's advice on this matter.
+-   Following the herd mentality is a no-go when it comes to Forex trading. Before you start following your neighbour's advice in forex trading, we want to tell you some facts.
+-   Eighty percent of the traders lose money on online forex platforms. It is a statistically proven fact that whichever way the vast majority of traders are trading, whether that's long or short, this is usually the wrong direction. So you might want to reconsider your uncle's advice on this matter.
 
 #### Best Forex Trading on Apps
 
 There are no security concerns while trading on mobile apps since each user has his unique credentials. It is similar to using any other app on your mobile device. There are a lot of options for people looking for trading apps. Following would be the list of such apps used for online forex trading –
 
-- **I.G.** – Supported and managed by the well-renowned I.G. group. The I.G. Group created a mobile application that allows forex traders to manage their accounts easily from their phone. It is available on IOS and android.
-- **Forex.com** – This app is run and managed by forex.com, which claims to be a one-stop spot for all the forex trading services.
-- **CedarFX:** It is the only forex trading app that claims to be eco-friendly. It offers the option of choosing a green account with no commission.
-- **HYCM**: It allows its users to trade in 69 pairs of unique currency. Other than forex trading, it also provides stock and ETF trading, investing in commodities.
+-   **I.G.** – Supported and managed by the well-renowned I.G. group. The I.G. Group created a mobile application that allows forex traders to manage their accounts easily from their phone. It is available on IOS and android.
+-   **Forex.com** – This app is run and managed by forex.com, which claims to be a one-stop spot for all the forex trading services.
+-   **CedarFX:** It is the only forex trading app that claims to be eco-friendly. It offers the option of choosing a green account with no commission.
+-   **HYCM**: It allows its users to trade in 69 pairs of unique currency. Other than forex trading, it also provides stock and ETF trading, investing in commodities.
 
 #### Different types of Forex Trading Platforms
 
@@ -109,11 +109,11 @@ Regulation is the most important thing when it comes to selecting your forex tra
 
 Regulators put limits on the leverage offered by the brokers to perform proper risk management. The primary function of putting limits is to avoid drastic financial losses when a trade might go the other way. Regulations are also made that define eligibility criteria for firms. For example, firms in the U.S. must have a capital of 20 million USD. We will put down a list of well-known regulation agencies. It is as follows:
 
-- F.C.A. (Financial Conduct Authority) – It is a world-renowned regulating agency based in the U.K. regulating 58000 financial services firms.
-- CFTC (Commodity Futures Trading Commission) – It is an independent agency based in the U.S., it was founded in 1974. This agency's primary task is to regulate the U.S. derivatives markets.
-- NFA (National Futures Association) – It is a self-regulatory organization based in the U.S. Its function is to safeguard the integrity of the derivatives market.
-- M.A.S. (Monetary Authority of Singapore) – The agency mentions that its function is to maintain sustainable growth of the economy without inflation.
-- B.M.A. (Bermuda Monetary Authority) – Institution that regulates the financial aspect of Bermuda.
+-   F.C.A. (Financial Conduct Authority) – It is a world-renowned regulating agency based in the U.K. regulating 58000 financial services firms.
+-   CFTC (Commodity Futures Trading Commission) – It is an independent agency based in the U.S., it was founded in 1974. This agency's primary task is to regulate the U.S. derivatives markets.
+-   NFA (National Futures Association) – It is a self-regulatory organization based in the U.S. Its function is to safeguard the integrity of the derivatives market.
+-   M.A.S. (Monetary Authority of Singapore) – The agency mentions that its function is to maintain sustainable growth of the economy without inflation.
+-   B.M.A. (Bermuda Monetary Authority) – Institution that regulates the financial aspect of Bermuda.
 
 ###### Customer Service
 

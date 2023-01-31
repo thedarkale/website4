@@ -1,28 +1,28 @@
 ---
-template: "post"
-slug: "our-days-a-survival-odyssey"
+template: 'post'
+slug: 'our-days-a-survival-odyssey'
 
-title: "OUR DAYS: A SURVIVAL ODYSSEY"
-author: "Kanishk Chouksey, Siddharth Mandge"
-description: "War? What is it good for? Absolutely Nothing."
+title: 'OUR DAYS: A SURVIVAL ODYSSEY'
+author: 'Kanishk Chouksey, Siddharth Mandge'
+description: 'War? What is it good for? Absolutely Nothing.'
 
-cover: "./banner.jpeg"
+cover: './banner.jpeg'
 images:
     - banner:
-        feature: ./banner.jpeg
-        credit:
-            name: "Swaraj Bhatia"
-            link: "https://notionpress.com/author/swaraj_bhatia"
+          feature: ./banner.jpeg
+          credit:
+              name: 'Swaraj Bhatia'
+              link: 'https://notionpress.com/author/swaraj_bhatia'
     - banner:
-        feature: ./gaza-strip.jpeg
-        credit:
-            name: "Kanishk Chouksey"
-            info: "Screenshot taken from the Book Our Days"
+          feature: ./gaza-strip.jpeg
+          credit:
+              name: 'Kanishk Chouksey'
+              info: 'Screenshot taken from the Book Our Days'
 
-date: "2021-01-11T03:46:51.639Z"
-lastupdated: "2021-01-11T03:46:51.639Z"
+date: '2021-01-11T03:46:51.639Z'
+lastupdated: '2021-01-11T03:46:51.639Z'
 
-categories: 
+categories:
     - Book Review
 tags:
     - war
@@ -49,6 +49,7 @@ The author had thoroughly studied the Gaza incident which leads to a solid setup
 > My Rating – 4.5/5 stars
 
 ---
+
 ### Additional sources
 
-- Suggested song: [Little Wing - Jimi Hendrix](https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5?si=yivHUgTzQwSrmlBxmgIarw)
+-   Suggested song: [Little Wing - Jimi Hendrix](https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5?si=yivHUgTzQwSrmlBxmgIarw)

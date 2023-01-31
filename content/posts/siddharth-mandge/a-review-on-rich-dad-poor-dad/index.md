@@ -1,24 +1,24 @@
 ---
-template: "post"
-slug: "a-review-on-rich-dad-poor-dad"
+template: 'post'
+slug: 'a-review-on-rich-dad-poor-dad'
 
-title: "A Review on Rich Dad Poor Dad"
-author: "Siddharth Mandge"
+title: 'A Review on Rich Dad Poor Dad'
+author: 'Siddharth Mandge'
 
-cover: "./banner.jpg"
+cover: './banner.jpg'
 images:
     - banner:
-        url: "https://www.pexels.com/photo/round-silver-and-gold-coins-730564/"
-        feature: ./banner.jpg
-        credit:
-            info: "Taken from pexels.com"
-            name: "David McBee"
-            link: "https://www.pexels.com/@davidmcbee"
+          url: 'https://www.pexels.com/photo/round-silver-and-gold-coins-730564/'
+          feature: ./banner.jpg
+          credit:
+              info: 'Taken from pexels.com'
+              name: 'David McBee'
+              link: 'https://www.pexels.com/@davidmcbee'
 
-date: "2020-05-06T20:37:00.00Z"
-lastupdated: "2020-05-06T21:27:00.00Z"
+date: '2020-05-06T20:37:00.00Z'
+lastupdated: '2020-05-06T21:27:00.00Z'
 
-categories: 
+categories:
     - Book Review
 tags:
     - time
@@ -36,6 +36,7 @@ Have you ever wondered how the rich people got rich in the first place? Why is i
 > Everyone should at least read this book once to at least have an idea of how the actual system works and this book may also help you form a basic foundation to gain success in life.
 
 ---
+
 ### Additional sources
 
-- Suggested song: 
+-   Suggested song:

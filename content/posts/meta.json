@@ -1,34 +1,34 @@
 {
-	"data": {
-		"authors": [
-			"Aniruddha Pandey",
-			"Kanishk Chouksey",
-			"Sarthak Dutt",
-			"Saud Ansari",
-			"Siddharth Mandge",
-			"Soumyadeep Dubey",
-			"Yashwant Dubey",
-			"Prakriti Dubey"
-		],
-		"categories": [
-			"Book Review",
-			"Culture",
-			"Travel",
-			"Combat",
-			"Movie",
-			"Politics",
-			"Music",
-			"Finance",
-			"Automobile",
-			"Science",
-			"Health",
-			"Lifestyle",
-			"Research",
-			"Techology",
-			"Philosophy",
-			"Fitness",
-			"Economics",
-			"Environment"
-		]
-	}
+    "data": {
+        "authors": [
+            "Aniruddha Pandey",
+            "Kanishk Chouksey",
+            "Sarthak Dutt",
+            "Saud Ansari",
+            "Siddharth Mandge",
+            "Soumyadeep Dubey",
+            "Yashwant Dubey",
+            "Prakriti Dubey"
+        ],
+        "categories": [
+            "Book Review",
+            "Culture",
+            "Travel",
+            "Combat",
+            "Movie",
+            "Politics",
+            "Music",
+            "Finance",
+            "Automobile",
+            "Science",
+            "Health",
+            "Lifestyle",
+            "Research",
+            "Techology",
+            "Philosophy",
+            "Fitness",
+            "Economics",
+            "Environment"
+        ]
+    }
 }

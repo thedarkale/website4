@@ -1,23 +1,23 @@
 ---
-template: "post"
-slug: "budgeting"
+template: 'post'
+slug: 'budgeting'
 
-title: "Budgeting"
-author: "Yashwant Dubey"
+title: 'Budgeting'
+author: 'Yashwant Dubey'
 
-cover: "./banner.jpg"
+cover: './banner.jpg'
 images:
     - banner:
-        url: "https://www.pexels.com/photo/black-calculator-near-ballpoint-pen-on-white-printed-paper-53621/"
-        feature: ./banner.jpg
-        credit:
-            info: "Taken from www.pexels.com"
-            link: "https://www.pexels.com/@pixabay"
+          url: 'https://www.pexels.com/photo/black-calculator-near-ballpoint-pen-on-white-printed-paper-53621/'
+          feature: ./banner.jpg
+          credit:
+              info: 'Taken from www.pexels.com'
+              link: 'https://www.pexels.com/@pixabay'
 
-date: "2020-12-03T00:56:00.00Z"
-lastupdated: "2020-12-03T00:56:00.00Z"
+date: '2020-12-03T00:56:00.00Z'
+lastupdated: '2020-12-03T00:56:00.00Z'
 
-categories: 
+categories:
     - Finance
 tags:
     - budgeting
@@ -31,9 +31,9 @@ Today I want to talk about budgeting. whenever I do my budgeting, I am very anxi
 
 Here I am introducing to a budgeting process, if you think it very complex and doesn’t suit your preferences You can design your budget plan.
 
-1. The first step in creating a budget is to identify the amount of money you have coming in. 
-2. The second step is, to begin with making a list of all you spending of the previous and current month to see where are you spending your money, you can refer to your bank statement for this. 
-3. Then identify what are your fixed expenses such as rent, commuting fares etc. Next list all your variable expenses—those that may change from month to month such as food, entertainment etc. 
+1. The first step in creating a budget is to identify the amount of money you have coming in.
+2. The second step is, to begin with making a list of all you spending of the previous and current month to see where are you spending your money, you can refer to your bank statement for this.
+3. Then identify what are your fixed expenses such as rent, commuting fares etc. Next list all your variable expenses—those that may change from month to month such as food, entertainment etc.
 4. Use the variable and fixed expenses you compiled to help you get a sense of what you’ll spend in the coming months. With your fixed expenses, you can predict fairly accurately how much you’ll have to budget for. Use your past spending habits as a guide when trying to predict your variable expenses.
 5. Once you’ve done all this, you have what you need to complete your budget. Having documented your income and spending, you can start to see where you have money leftover or where you can cut back so that you have money to put toward your goals.
 
@@ -42,6 +42,7 @@ After creating your budget plan, try to use it for a month or two and decide whe
 By doing Budgeting you can also forecast which month will you have less or more money. This helps you in making realistic assumptions about your annual income and expense and plan for long terms financial goals like starting your own business or can be used as an investment in a mutual fund or equity.
 
 ---
+
 ### Additional sources
 
-- Suggested song: 
+-   Suggested song:

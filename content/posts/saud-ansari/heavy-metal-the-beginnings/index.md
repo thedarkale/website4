@@ -1,23 +1,23 @@
 ---
-template: "post"
-slug: "heavy-metal-the-beginnings"
+template: 'post'
+slug: 'heavy-metal-the-beginnings'
 
-title: "Heavy Metal: The Beginnings"
-author: "Saud Ansari"
+title: 'Heavy Metal: The Beginnings'
+author: 'Saud Ansari'
 
-cover: "./banner.jpg"
+cover: './banner.jpg'
 images:
     - banner:
-        url: "https://www.pexels.com/photo/artists-audience-audio-band-416831/"
-        feature: ./banner.jpg
-        credit:
-            info: "Taken from pexels.com"
-            link: "https://www.pexels.com/@pixabay"
+          url: 'https://www.pexels.com/photo/artists-audience-audio-band-416831/'
+          feature: ./banner.jpg
+          credit:
+              info: 'Taken from pexels.com'
+              link: 'https://www.pexels.com/@pixabay'
 
-date: "2020-12-05T20:34:00.00Z"
-lastupdated: "2020-12-05T20:34:00.00Z"
+date: '2020-12-05T20:34:00.00Z'
+lastupdated: '2020-12-05T20:34:00.00Z'
 
-categories: 
+categories:
     - Music
 tags:
     - heavy metal
@@ -40,6 +40,7 @@ So when Black Sabbath came into the scene in 1969 with their self-titled album n
 Sabbath laid the groundwork by their debut and next two albums ‘Paranoid’ and ‘Master Of Reality’ which has all the great classic songs like ‘Iron Man’, ‘War Pigs’ and ‘Paranoid’ of course, 1971s ‘Master of Reality’ which was further detuned became a staple sound for ‘Heavy Metal’. The 1970s ‘In Rock’ by ‘Deep Purple’ also influenced many bands of the late 1970s.
 
 ---
+
 ### Additional sources
 
-- Suggested song: [Paranoid - BLACK SABBATH](https://youtu.be/0qanF-91aJo)
+-   Suggested song: [Paranoid - BLACK SABBATH](https://youtu.be/0qanF-91aJo)
