@@ -92,7 +92,8 @@
     "format:js": "prettier '**/*.{js,jsx}' --write",
     "slugify": "node scripts/slugify.js",
     "date": "node scripts/date.js",
-    "blog": "node scripts/blog.js"
+    "blog": "node scripts/blog.js",
+    "format": "npx prettier --write '**/*.{ts,js,css,scss,html,md}'"
   },
   "remarkConfig": {
     "plugins": [
