@@ -1,18 +1,17 @@
-import React from "react";
-import ExternalLink from "./ExternalLink";
-import { Link } from "gatsby";
-import { isInteralLink } from "../../utils/helpers";
+import React from 'react'
+import ExternalLink from './ExternalLink'
+import { Link } from 'gatsby'
+import { isInteralLink } from '../../utils/helpers'
 
-const AutoLink = (props) => (
+const AutoLink = props => (
   <>
-  {
-    isInteralLink(props.to) ? (
+    {isInteralLink(props.to) ? (
       <Link
         key={props.label}
         to={props.to}
         activeClassName={props.activeClassName}
         className={props.className}
-        style={{...props.style, color: "#FC3F80"}}
+        style={{ ...props.style, color: '#FC3F80' }}
       >
         {props.children}
       </Link>
@@ -24,9 +23,8 @@ const AutoLink = (props) => (
       >
         {props.children}
       </ExternalLink>
-    )
-  }
+    )}
   </>
-);
+)
 
-export default AutoLink;
+export default AutoLink

@@ -1,20 +1,20 @@
-import React from "react";
-import Helmet from "react-helmet";
-import { graphql } from "gatsby";
-import Layout from "../layout";
-import Header from "../components/Header/Header";
-import MainContainer from "../components/MainContainer/MainContainer";
-import Sidebar from "../components/Sidebar/Sidebar";
-import PostListing from "../components/PostListing/PostListing";
-import SEO from "../components/SEO/SEO";
-import { getPostList, getTagCategoryList } from "../utils/helpers";
-import config from "../../data/SiteConfig";
+import React from 'react'
+import Helmet from 'react-helmet'
+import { graphql } from 'gatsby'
+import Layout from '../layout'
+import Header from '../components/Header/Header'
+import MainContainer from '../components/MainContainer/MainContainer'
+import Sidebar from '../components/Sidebar/Sidebar'
+import PostListing from '../components/PostListing/PostListing'
+import SEO from '../components/SEO/SEO'
+import { getPostList, getTagCategoryList } from '../utils/helpers'
+import config from '../../data/SiteConfig'
 
 class Index extends React.Component {
   render() {
-    const postEdges = this.props.data.allMarkdownRemark.edges;
-    const postList = getPostList(postEdges);
-    const { tagList, categoryList } = getTagCategoryList(postList);
+    const postEdges = this.props.data.allMarkdownRemark.edges
+    const postList = getPostList(postEdges)
+    const { tagList, categoryList } = getTagCategoryList(postList)
     const content = (
       <PostListing
         postList={postList}
@@ -24,21 +24,21 @@ class Index extends React.Component {
         numberLoadmore={config.numberLoadmore}
         btnLoadmore={config.btnLoadmore}
       />
-    );
+    )
     const sidebar = (
       <Sidebar
         tagList={tagList}
         categoryList={categoryList}
         links={config.sidebarLinks}
       />
-    );
+    )
 
     const headerTitle = config.homeHeader
       ? `${config.homeHeader}`
-      : `${config.siteTitle}`;
+      : `${config.siteTitle}`
 
     return (
-      <Layout style={{ fontFamily: "Montserrat" }}>
+      <Layout style={{ fontFamily: 'Montserrat' }}>
         <div className="index-container">
           <Helmet title={config.siteTitle} />
           <SEO />
@@ -46,11 +46,11 @@ class Index extends React.Component {
           <MainContainer content={content} sidebar={sidebar} />
         </div>
       </Layout>
-    );
+    )
   }
 }
 
-export default Index;
+export default Index
 
 /* eslint no-undef: "off" */
 export const pageQuery = graphql`
@@ -87,4 +87,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`;
+`

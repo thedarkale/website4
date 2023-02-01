@@ -1,25 +1,25 @@
 ---
-template: "post"
-slug: "what-is-in-economic-survey-2020-21"
+template: 'post'
+slug: 'what-is-in-economic-survey-2020-21'
 
-title: "What is in Economic Survey 2020-2021?"
-author: "Yashwant Dubey"
-description: ""
+title: 'What is in Economic Survey 2020-2021?'
+author: 'Yashwant Dubey'
+description: ''
 
-cover: "./banner.jpg"
+cover: './banner.jpg'
 
 images:
   - banner:
-    url: "https://www.pexels.com/photo/india-rupee-banknote-904735/"
+    url: 'https://www.pexels.com/photo/india-rupee-banknote-904735/'
     feature: ./banner.jpg
     credit:
-      info: "Taken from pexels.com"
-      link: "https://www.pexels.com/@habibqnet"
+      info: 'Taken from pexels.com'
+      link: 'https://www.pexels.com/@habibqnet'
 
-date: "2021-01-30T23:18:50.583Z"
-lastupdated: "2021-01-30T23:18:50.583Z"
+date: '2021-01-30T23:18:50.583Z'
+lastupdated: '2021-01-30T23:18:50.583Z'
 
-categories: 
+categories:
   - Economics
 tags:
   - finance
@@ -28,17 +28,15 @@ tags:
   - stock market
   - industry
   - india
-keywords: ""
-
----
-
-![India Rupee Banknote](./banner.jpg)
+keywords: ''
+---![India Rupee Banknote](./banner.jpg)
 
 ---
 
 On the first day of budget session in the parliament on **29 January 2021**, Finance Minister **Nirmala Sitharaman** has presented economic survey 2020-21. The main theme of economic survey as stated in preface of survey is [#savinglives&livelihoods](https://twitter.com/search?q=%23savinglives%26livelihoods) and [#vshapedrecovery](https://twitter.com/search?q=%23vshapedrecovery) of economy. The economic survey provides us how the <u>COVID19</u> virus impacted us and how India improving from it. It also project India’s gross domestic product growth for 2021-22.
 
 Some key highlight points from economic surveys are:
+
 - Economic survey supports the India's strict early lockdown in march 2020.it states that an early, intense lockdown provided a win-win strategy to save lives, and preserve livelihoods via economic recovery in the medium to long-term.
 - The survey presents a V-shaped recovery, as seen in a 7.5% decline in GDP in Q2 and recovery across all key economic indicators vis-à-vis the 23.9% GDP contraction in Q1.
 - The survey expects India’s real GDP to record an 11.0% growth in FY2021-22 and nominal GDP to grow by 15.4% – the highest since independence: This means that the Indian GDP in 2021-22 is expected to be at ₹149.2 lakh crore.

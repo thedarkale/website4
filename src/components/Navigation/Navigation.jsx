@@ -1,26 +1,26 @@
-import React, { Component } from "react";
-import NavBrand from "./NavBrand";
-import NavLinks from "./NavLinks";
-import NavBars from "./NavBars";
-import "./Navigation.scss";
+import React, { Component } from 'react'
+import NavBrand from './NavBrand'
+import NavLinks from './NavLinks'
+import NavBars from './NavBars'
+import './Navigation.scss'
 
 class Navigation extends Component {
   constructor() {
-    super();
+    super()
   }
   state = {
     openDropdown: false,
-  };
+  }
 
   handleClick = () => {
-    this.setState((prevState) => ({
+    this.setState(prevState => ({
       openDropdown: !prevState.openDropdown,
-    }));
-  };
+    }))
+  }
 
   render() {
-    const { brand, title, links } = this.props;
-    const { openDropdown } = this.state;
+    const { brand, title, links } = this.props
+    const { openDropdown } = this.state
 
     return (
       <>
@@ -41,8 +41,8 @@ class Navigation extends Component {
           ) : null}
         </nav>
       </>
-    );
+    )
   }
 }
 
-export default Navigation;
+export default Navigation

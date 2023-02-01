@@ -1,22 +1,22 @@
-import React, { Component } from "react";
-import Disqus from "./Disqus";
+import React, { Component } from 'react'
+import Disqus from './Disqus'
 
 class Comment extends Component {
   constructor(props) {
-    super(props);
+    super(props)
   }
   state = {
     isShow: !this.props.lazyload,
-  };
+  }
 
   handleClick = () => {
-    this.setState((prevState) => ({
+    this.setState(prevState => ({
       isShow: !prevState.isShow,
-    }));
-  };
+    }))
+  }
 
   render() {
-    const { extraClass, postNode, btnLoadComments } = this.props;
+    const { extraClass, postNode, btnLoadComments } = this.props
 
     return (
       <div className={`comment-container text-center ${extraClass}`}>
@@ -28,8 +28,8 @@ class Comment extends Component {
 
         {this.state.isShow && <Disqus postNode={postNode} />}
       </div>
-    );
+    )
   }
 }
 
-export default Comment;
+export default Comment

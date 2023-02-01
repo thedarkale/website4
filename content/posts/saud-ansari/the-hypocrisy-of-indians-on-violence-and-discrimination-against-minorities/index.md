@@ -1,28 +1,28 @@
 ---
-template: "post"
-slug: "the-hypocrisy-of-indians-on-violence-and-discrimination-against-minorities"
+template: 'post'
+slug: 'the-hypocrisy-of-indians-on-violence-and-discrimination-against-minorities'
 
-title: "The Hypocrisy of Indians on violence and discrimination against minorities"
-author: "Saud Ansari"
-description: "A coverage of discrimination against minorities."
+title: 'The Hypocrisy of Indians on violence and discrimination against minorities'
+author: 'Saud Ansari'
+description: 'A coverage of discrimination against minorities.'
 
-cover: "./banner.jpg"
+cover: './banner.jpg'
 images:
-    - banner:
-        url: "https://www.pexels.com/photo/lighted-candle-695644/"
-        feature: ./banner.jpg
-        credit:
-            info: "Taken from pexels.com"
-            name: "Rahul"
-            link: "https://www.pexels.com/@byrahul"
+  - banner:
+      url: 'https://www.pexels.com/photo/lighted-candle-695644/'
+      feature: ./banner.jpg
+      credit:
+        info: 'Taken from pexels.com'
+        name: 'Rahul'
+        link: 'https://www.pexels.com/@byrahul'
 
-date: "2020-06-10T19:37:00.00Z"
-lastupdated: "2020-06-10T19:37:00.00Z"
+date: '2020-06-10T19:37:00.00Z'
+lastupdated: '2020-06-10T19:37:00.00Z'
 
-categories: 
-    - Politics
+categories:
+  - Politics
 tags:
-    - minorities
+  - minorities
 ---
 
 ![Lighted Candle](./banner.jpg)
@@ -44,6 +44,7 @@ Sadly, violence and hate against minorities from Police and the majority communi
 We have to find answers to these hard-hitting questions and our social and cultural issues before we can lecture someone else on their country’s problems.
 
 ---
+
 ### Additional sources
 
-- Suggested song: 
+- Suggested song:

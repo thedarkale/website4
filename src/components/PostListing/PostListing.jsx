@@ -1,31 +1,31 @@
-import React, { Component } from "react";
-import Article from "./Article";
-import Quote from "../Quotes/Quote";
+import React, { Component } from 'react'
+import Article from './Article'
+import Quote from '../Quotes/Quote'
 
 class PostListing extends Component {
   constructor(props) {
-    super(props);
+    super(props)
   }
   state = {
     maxPosts:
       this.props.hasLoadmore && this.props.postsPerPage
         ? this.props.postsPerPage
         : this.props.postList.length,
-  };
+  }
 
   handleLoadmore = () => {
-    const { hasLoadmore = false, numberLoadmore } = this.props;
+    const { hasLoadmore = false, numberLoadmore } = this.props
 
-    if (!hasLoadmore) return;
+    if (!hasLoadmore) return
 
-    this.setState((prevState) => ({
+    this.setState(prevState => ({
       maxPosts: prevState.maxPosts + numberLoadmore,
-    }));
-  };
+    }))
+  }
 
   render() {
-    const { postList, hasThumbnail = true, hasLoadmore = false } = this.props;
-    const { maxPosts } = this.state;
+    const { postList, hasThumbnail = true, hasLoadmore = false } = this.props
+    const { maxPosts } = this.state
 
     return (
       <>
@@ -39,9 +39,9 @@ class PostListing extends Component {
                   post={post}
                   hasThumbnail={hasThumbnail}
                 />
-              );
+              )
 
-            return null;
+            return null
           })}
         </div>
         {hasLoadmore && maxPosts < postList.length && (
@@ -52,8 +52,8 @@ class PostListing extends Component {
           </div>
         )}
       </>
-    );
+    )
   }
 }
 
-export default PostListing;
+export default PostListing

@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react'
 
 const WidgetTitle = ({ title }) => (
   <h3 className="text-uppercase">
@@ -6,4 +6,4 @@ const WidgetTitle = ({ title }) => (
   </h3>
 )
 
-export default WidgetTitle;
+export default WidgetTitle

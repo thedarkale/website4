@@ -1,25 +1,27 @@
-import React from "react";
-import Helmet from "react-helmet";
-import { graphql } from "gatsby";
-import Layout from "../layout";
-import Header from "../components/Header/Header";
-import MainContainer from "../components/MainContainer/MainContainer";
-import Sidebar from "../components/Sidebar/Sidebar";
-import Post from "../components/Post/Post";
-import SEO from "../components/SEO/SEO";
-import config from "../../data/SiteConfig";
+import React from 'react'
+import Helmet from 'react-helmet'
+import { graphql } from 'gatsby'
+import Layout from '../layout'
+import Header from '../components/Header/Header'
+import MainContainer from '../components/MainContainer/MainContainer'
+import Sidebar from '../components/Sidebar/Sidebar'
+import Post from '../components/Post/Post'
+import SEO from '../components/SEO/SEO'
+import config from '../../data/SiteConfig'
 
 const PostTemplate = ({ data, pageContext }) => {
-  const { slug, tagList, categoryList, latestPostEdges } = pageContext;
-  const postNode = data.markdownRemark;
-  const title = postNode.frontmatter.title;
-  const content = <Post postNode={postNode} config={config} slug={slug} />;
-  const sidebar = <Sidebar 
-    tagList={tagList} 
-    categoryList={categoryList}
-    latestPostEdges={latestPostEdges} 
-    links={config.sidebarLinks}
-  />;
+  const { slug, tagList, categoryList, latestPostEdges } = pageContext
+  const postNode = data.markdownRemark
+  const title = postNode.frontmatter.title
+  const content = <Post postNode={postNode} config={config} slug={slug} />
+  const sidebar = (
+    <Sidebar
+      tagList={tagList}
+      categoryList={categoryList}
+      latestPostEdges={latestPostEdges}
+      links={config.sidebarLinks}
+    />
+  )
 
   return (
     <Layout>
@@ -30,10 +32,10 @@ const PostTemplate = ({ data, pageContext }) => {
       <Header title={title} />
       <MainContainer content={content} sidebar={sidebar} />
     </Layout>
-  );
+  )
 }
 
-export default PostTemplate;
+export default PostTemplate
 
 /* eslint no-undef: "off" */
 export const pageQuery = graphql`
@@ -64,4 +66,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`;
+`

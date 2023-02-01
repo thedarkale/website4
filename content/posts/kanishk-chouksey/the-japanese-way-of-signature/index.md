@@ -1,27 +1,27 @@
 ---
-template: "post"
-slug: "the-japanese-way-of-signature"
+template: 'post'
+slug: 'the-japanese-way-of-signature'
 
-title: "The Japanese way of Signature"
-author: "Kanishk Chouksey"
-description: "What if there is an alternate and cooler way to authenticate yourself apart from your regular signature?"
+title: 'The Japanese way of Signature'
+author: 'Kanishk Chouksey'
+description: 'What if there is an alternate and cooler way to authenticate yourself apart from your regular signature?'
 
-cover: "./banner.jpg"
+cover: './banner.jpg'
 images:
-    - banner:
-        url: "https://commons.wikimedia.org/wiki/File:East_Asian_calligraphy_scheme_02-en.svg"
-        feature: ./banner.jpg
-        credit:
-            info: "By Yug - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4660939"
+  - banner:
+      url: 'https://commons.wikimedia.org/wiki/File:East_Asian_calligraphy_scheme_02-en.svg'
+      feature: ./banner.jpg
+      credit:
+        info: 'By Yug - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4660939'
 
-date: "2021-01-11T03:45:51.639Z"
-lastupdated: "2021-01-11T03:45:51.639Z"
+date: '2021-01-11T03:45:51.639Z'
+lastupdated: '2021-01-11T03:45:51.639Z'
 
-categories: 
-    - Culture
+categories:
+  - Culture
 tags:
-    - signature
-    - japan
+  - signature
+  - japan
 ---
 
 ![Scheme of Chinese seal, seal paste, and technique to use them.](./banner.jpg)
@@ -37,6 +37,7 @@ Being more than thousands of years old, Han stamps still haven’t lost their sy
 > PS- Custom made Hanko are available for people outside Japan via various websites.
 
 ---
+
 ### Additional sources
 
 - Suggested song: [Hero's Comes Back!! - nobodyknows+](https://open.spotify.com/track/7weHG0yOwtAcZ0qBhyODLF?si=8DCFjX7cQ5us2hWBg--5sw)

@@ -1,14 +1,14 @@
-import React from "react";
-import AutoLink from "../AutoLink/AutoLink";
+import React from 'react'
+import AutoLink from '../AutoLink/AutoLink'
 
 const NavLinks = ({ links, isDropdown = false }) => {
-  const navLinksClassDropdown = "nav-links text-left";
-  const navLinksClassNormal = "nav-links text-right";
-  const navLinksClass = isDropdown ? navLinksClassDropdown : navLinksClassNormal;
+  const navLinksClassDropdown = 'nav-links text-left'
+  const navLinksClassNormal = 'nav-links text-right'
+  const navLinksClass = isDropdown ? navLinksClassDropdown : navLinksClassNormal
 
-  const itemClassDropdown = "item padding-top padding-bottom border-top-default";
-  const itemClassNormal = "item margin-left";
-  const itemClass = isDropdown ? itemClassDropdown : itemClassNormal;
+  const itemClassDropdown = 'item padding-top padding-bottom border-top-default'
+  const itemClassNormal = 'item margin-left'
+  const itemClass = isDropdown ? itemClassDropdown : itemClassNormal
 
   return (
     <div className={navLinksClass}>
@@ -26,4 +26,4 @@ const NavLinks = ({ links, isDropdown = false }) => {
   )
 }
 
-export default NavLinks;
+export default NavLinks

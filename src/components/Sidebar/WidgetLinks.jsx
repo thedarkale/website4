@@ -1,8 +1,8 @@
-import React from 'react';
-import AutoLink from '../AutoLink/AutoLink';
-import WidgetContainer from './WidgetContainer';
-import WidgetTitle from './WidgetTitle';
-import config from '../../../data/SiteConfig';
+import React from 'react'
+import AutoLink from '../AutoLink/AutoLink'
+import WidgetContainer from './WidgetContainer'
+import WidgetTitle from './WidgetTitle'
+import config from '../../../data/SiteConfig'
 
 const WidgetLinks = ({ links }) => (
   <>
@@ -23,6 +23,6 @@ const WidgetLinks = ({ links }) => (
       </WidgetContainer>
     )}
   </>
-);
+)
 
-export default WidgetLinks;
+export default WidgetLinks

@@ -1,36 +1,36 @@
 ---
-template: "post"
-slug: "strength-the-days-grief-the-price-of-love"
+template: 'post'
+slug: 'strength-the-days-grief-the-price-of-love'
 
-title: "Strength The Days: Grief, The Price of Love"
-author: "Aniruddha Pandey"
+title: 'Strength The Days: Grief, The Price of Love'
+author: 'Aniruddha Pandey'
 
-cover: "./banner.jpg"
+cover: './banner.jpg'
 images:
-    - banner:
-        feature: ./banner.jpg
-        url: "https://www.pexels.com/photo/sad-woman-standing-on-coast-of-sea-at-sunset-5273059/"
-        credit:
-        	info: "Taken from pexels website"
-        	name: "Julia Volk"
-        	link: "https://www.pexels.com/@julia-volk"
+  - banner:
+      feature: ./banner.jpg
+      url: 'https://www.pexels.com/photo/sad-woman-standing-on-coast-of-sea-at-sunset-5273059/'
+      credit:
+      info: 'Taken from pexels website'
+      name: 'Julia Volk'
+      link: 'https://www.pexels.com/@julia-volk'
 
-date: "2021-04-06T16:35:24.611Z"
-lastupdated: "2021-04-06T16:35:24.611Z"
+date: '2021-04-06T16:35:24.611Z'
+lastupdated: '2021-04-06T16:35:24.611Z'
 
-categories: 
-    - Philosophy
+categories:
+  - Philosophy
 tags:
-    - grief
-    - lost
-    - loss
-    - death
-    - father
-    - mother
-    - parents
-    - challenge
-    - strength
-    - poem
+  - grief
+  - lost
+  - loss
+  - death
+  - father
+  - mother
+  - parents
+  - challenge
+  - strength
+  - poem
 ---
 
 ![Sad woman standing on coast of sea at sunset](./banner.jpg)
@@ -38,6 +38,7 @@ tags:
 Why the inevitable sadness and grief that inflicts our mind due to the loss of a family is alright in its entirety and how these days will end soon to a new blooming morning where you’re going to gain your motive force of life once again.
 
 ---
+
 I remember the young spirit of me going to kindergarten school for the first time and how lonely I felt going through the day in absence of my parents' assurance around me. I felt lonely, didn't have anybody to sit next to at lunch, vulnerable from just the look of others. I was lonely and sad and with no surprise that happened again from time to time when I changed cities, moved to a new place to live, new culture to adjust myself with, a change of job and much more to come in my life from now.
 
 But I also remember when my parents were there to pick me up and how hard I cried due to the anguish I went through in these few hours of separation. These memories along with many more make it hard to wrap my head around the idea when my parents are going to be no more and much less today where I can write on this.
@@ -48,7 +49,7 @@ And this made me think about what I was doing all this time when my friend or so
 
 <h1 style="font-weight: bold;">Ask don’t tell</h1>
 
-People can get depressed after some mentally traumatizing or stressful life-event like losing someone. So how can you help others or a loved one who is going through the rough phase of grief and sadness? If you really want them to move on don't help them with any expectation, there mustn't be a hidden motive to help someone. 
+People can get depressed after some mentally traumatizing or stressful life-event like losing someone. So how can you help others or a loved one who is going through the rough phase of grief and sadness? If you really want them to move on don't help them with any expectation, there mustn't be a hidden motive to help someone.
 
 It seems counterintuitive but to help someone to feel better is to let them in _pain_. You can never talk somebody out of their pain. It just makes them stop telling you about your pain. This is true to all the traumas, failure, etc, and not necessarily from the intense grieve from a deceased person’s memory. It is much more helpful to join them in their sadness but this is what we tend to do, make them look at the bright side which is what we’ve taught to be, optimistic. The truth is you can’t heal other people's pain by simply trying to take it away from them amid the darkness. Now, acknowledgement does something different, it is much more helpful to acknowledge the loss exists and live with it until it settles down on its own. Just like author **Parker J. Palmer** writes in his article <u>My Misgivings About Advice</u>[^1]:
 
@@ -71,6 +72,7 @@ It takes time to recover, don’t give frustration the last word. Life is a circ
 So when is the right time you should seek help? Think to yourself and ask if your daily chores, relationships, hobbies, work are getting affected by your mental health then it’s the red flag when you should seek help. It’s a scary process to come out with your vulnerable side to anyone, even to family, your mind can make up how you’re going to put forward those points.
 
 While you should always avoid social withdrawal there are some other factors that can complement and constructively increase your grief. You can try to eliminate rather work on these to approach a better state of being. These factors can be:
+
 - Medical Illness
 - Sedentary Lifestyle
 - Smoking
@@ -132,6 +134,7 @@ strength the days.
 <br>
 
 ---
+
 ### Additional Sources
 
 - Suggested song: [Kabhi Kabhi Aditi - Rashid Ali](https://youtu.be/HIbzXaBdwZw)

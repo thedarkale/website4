@@ -1,8 +1,7 @@
-
 // Project generator for thedarkale
 
 const template = {
-	index: (title, date, author, description, categories, image, song) => `
+  index: (title, date, author, description, categories, image, song) => `
 ---
 title: ${title}
 date: "${date}"
@@ -25,7 +24,5 @@ Your Awesome Blog!!
 ---
 ### Additional sources
 
-- Suggested song: ${song}`
+- Suggested song: ${song}`,
 }
-
-

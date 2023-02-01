@@ -1,8 +1,7 @@
-
 /* Add leading zero */
-const format = (num) => {
-	num = num.toString()
-	return ( num.length == 1 ) ? `0${num}` : num
+const format = num => {
+  num = num.toString()
+  return num.length == 1 ? `0${num}` : num
 }
 
 const now = new Date()

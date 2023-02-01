@@ -1,21 +1,21 @@
 ---
-template: "post"
-slug: "best-forex-trading-platforms-2021"
+template: 'post'
+slug: 'best-forex-trading-platforms-2021'
 
-title: "Best Forex Trading Platforms 2021"
-author: "Vivek Kushwah"
+title: 'Best Forex Trading Platforms 2021'
+author: 'Vivek Kushwah'
 
-cover: "./banner.jpg"
+cover: './banner.jpg'
 images:
   - banner:
-      url: "https://www.pexels.com/photo/close-up-photo-of-monitor-159888/"
+      url: 'https://www.pexels.com/photo/close-up-photo-of-monitor-159888/'
       feature: ./banner.jpg
       credit:
-        info: "image taken from pexels.com"
-        link: "https://www.pexels.com/@energepic-com-27411"
+        info: 'image taken from pexels.com'
+        link: 'https://www.pexels.com/@energepic-com-27411'
 
-date: "2021-10-22T20:33:04.71Z"
-lastupdated: "2021-10-22T20:33:04.71Z"
+date: '2021-10-22T20:33:04.71Z'
+lastupdated: '2021-10-22T20:33:04.71Z'
 
 categories:
   - Technology

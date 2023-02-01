@@ -1,8 +1,8 @@
-import React, { Component } from 'react';
-import WidgetContainer from './WidgetContainer';
-import WidgetTitle from './WidgetTitle';
-import config from '../../../data/SiteConfig';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import React, { Component } from 'react'
+import WidgetContainer from './WidgetContainer'
+import WidgetTitle from './WidgetTitle'
+import config from '../../../data/SiteConfig'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 class WidgetSearch extends Component {
   render() {
@@ -36,8 +36,8 @@ class WidgetSearch extends Component {
           </WidgetContainer>
         )}
       </>
-    );
+    )
   }
 }
 
-export default WidgetSearch;
+export default WidgetSearch
