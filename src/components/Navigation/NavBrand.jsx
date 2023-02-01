@@ -1,5 +1,5 @@
-import React from "react";
-import AutoLink from "../AutoLink/AutoLink";
+import React from 'react'
+import AutoLink from '../AutoLink/AutoLink'
 
 const NavBrand = ({ brand, title }) => (
   <div className="brand">
@@ -12,17 +12,17 @@ const NavBrand = ({ brand, title }) => (
       <span
         className="title"
         style={{
-          fontFamily: "Poppins",
-          fontSize: "2rem",
+          fontFamily: 'Poppins',
+          fontSize: '2rem',
           fontWeight: 200,
-          fontStyle: "normal",
-          color: "#616568",
+          fontStyle: 'normal',
+          color: '#616568',
         }}
       >
         <strong>{title}</strong>
       </span>
     </AutoLink>
   </div>
-);
+)
 
-export default NavBrand;
+export default NavBrand

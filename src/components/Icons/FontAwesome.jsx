@@ -1,5 +1,5 @@
-import { library } from "@fortawesome/fontawesome-svg-core";
-import { 
+import { library } from '@fortawesome/fontawesome-svg-core'
+import {
   faCodepen,
   faFreeCodeCamp,
   faGithub,
@@ -7,8 +7,8 @@ import {
   faLinkedinIn,
   faTwitter,
   faPinterest,
-  faYoutube
-} from "@fortawesome/free-brands-svg-icons";
+  faYoutube,
+} from '@fortawesome/free-brands-svg-icons'
 import {
   faRss,
   faAngleUp,
@@ -16,8 +16,8 @@ import {
   faAngleDoubleLeft,
   faFolderOpen,
   faTags,
-  faSearch
-} from "@fortawesome/free-solid-svg-icons";
+  faSearch,
+} from '@fortawesome/free-solid-svg-icons'
 
 library.add(
   faCodepen,
@@ -35,4 +35,4 @@ library.add(
   faFolderOpen,
   faTags,
   faSearch
-);
+)

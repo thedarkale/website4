@@ -1,7 +1,7 @@
-import React from "react";
-import Thumbnail from "./Thumbnail";
-import PostInfo from "./PostInfo";
-import "./Article.scss";
+import React from 'react'
+import Thumbnail from './Thumbnail'
+import PostInfo from './PostInfo'
+import './Article.scss'
 
 const Article = ({ post, hasThumbnail }) => (
   <article
@@ -11,6 +11,6 @@ const Article = ({ post, hasThumbnail }) => (
     {hasThumbnail && <Thumbnail post={post} />}
     <PostInfo post={post} />
   </article>
-);
+)
 
-export default Article;
+export default Article

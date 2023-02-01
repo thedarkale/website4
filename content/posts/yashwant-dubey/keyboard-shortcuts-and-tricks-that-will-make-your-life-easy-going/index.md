@@ -1,21 +1,21 @@
 ---
-template: "post"
-slug: "keyboard-shortcuts-that-will-make-your-life-easy-going"
+template: 'post'
+slug: 'keyboard-shortcuts-that-will-make-your-life-easy-going'
 
-title: "Keyboard shortcuts that will make your life easy-going"
-author: "Yashwant Dubey"
+title: 'Keyboard shortcuts that will make your life easy-going'
+author: 'Yashwant Dubey'
 
-cover: "./banner.jpg"
+cover: './banner.jpg'
 images:
   - banner:
-      url: "https://www.pexels.com/photo/person-using-macbook-pro-on-white-table-6893919/"
+      url: 'https://www.pexels.com/photo/person-using-macbook-pro-on-white-table-6893919/'
       feature: ./banner.jpg
       credit:
-        info: "Image taken from pexels.com"
+        info: 'Image taken from pexels.com'
         link: https://www.pexels.com/@mikhail-nilov
 
-date: "2021-08-03T21:37:00.000Z"
-lastupdated: "2021-08-03T21:37:00.000Z"
+date: '2021-08-03T21:37:00.000Z'
+lastupdated: '2021-08-03T21:37:00.000Z'
 
 categories:
   - Technology

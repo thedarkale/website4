@@ -1,21 +1,21 @@
 ---
-template: "post"
-slug: "reasons-elon-musk-thinks mars-can-be-our-second-earth"
+template: 'post'
+slug: 'reasons-elon-musk-thinks mars-can-be-our-second-earth'
 
-title: "Reasons Elon Musk thinks Mars can be our second Earth"
-author: "Yashwant Dubey"
+title: 'Reasons Elon Musk thinks Mars can be our second Earth'
+author: 'Yashwant Dubey'
 
-cover: "./banner.jpg"
+cover: './banner.jpg'
 images:
   - banner:
-      url: "https://unsplash.com/photos/Opzk_hvwO9Q"
+      url: 'https://unsplash.com/photos/Opzk_hvwO9Q'
       feature: ./banner.jpg
       credit:
-        info: "image taken from unsplash.com"
+        info: 'image taken from unsplash.com'
         link: https://unsplash.com/@mike_kiev
 
-date: "2021-08-09T11:46:43.53Z"
-lastupdated: "2021-08-09T11:46:43.53Z"
+date: '2021-08-09T11:46:43.53Z'
+lastupdated: '2021-08-09T11:46:43.53Z'
 
 categories:
   - Science

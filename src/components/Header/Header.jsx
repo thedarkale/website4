@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react'
 // import Quote from '../Quotes/Quote'
 
 const Header = ({ title }) => (
@@ -11,6 +11,6 @@ const Header = ({ title }) => (
       </h1>
     </div>
   </header>
-);
+)
 
-export default Header;
+export default Header

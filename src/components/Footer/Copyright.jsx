@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react'
 
 const Copyright = ({ copyright }) => (
   <div className="copyright-container margin-half color-grey">
@@ -6,4 +6,4 @@ const Copyright = ({ copyright }) => (
   </div>
 )
 
-export default Copyright;
+export default Copyright

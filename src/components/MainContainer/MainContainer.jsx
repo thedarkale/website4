@@ -1,5 +1,5 @@
-import React from "react";
-import "./MainContainer.scss";
+import React from 'react'
+import './MainContainer.scss'
 
 const MainContainer = ({ content, sidebar }) => (
   <section className="main-container container">
@@ -12,4 +12,4 @@ const MainContainer = ({ content, sidebar }) => (
   </section>
 )
 
-export default MainContainer;
+export default MainContainer

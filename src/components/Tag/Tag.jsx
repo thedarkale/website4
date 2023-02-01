@@ -1,10 +1,10 @@
-import React from "react";
-import AutoLink from "../AutoLink/AutoLink";
-import { getTagPath } from "../../utils/helpers";
+import React from 'react'
+import AutoLink from '../AutoLink/AutoLink'
+import { getTagPath } from '../../utils/helpers'
 
 const Tag = ({ content }) => (
-  <AutoLink 
-    key={content} 
+  <AutoLink
+    key={content}
     to={getTagPath(content)}
     className="inline-block margin-right-half margin-bottom-half 
       border border-color-light-grey padding-left-half padding-right-half"
@@ -13,4 +13,4 @@ const Tag = ({ content }) => (
   </AutoLink>
 )
 
-export default Tag;
+export default Tag
