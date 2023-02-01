@@ -89,11 +89,10 @@
     "lint:js": "eslint --ext .js,.jsx .",
     "lint:md": "remark content/posts/",
     "write-good": "write-good $(glob 'content/posts/**/*.md')",
-    "format:js": "prettier '**/*.{js,jsx}' --write",
     "slugify": "node scripts/slugify.js",
     "date": "node scripts/date.js",
     "blog": "node scripts/blog.js",
-    "format": "npx prettier --write '**/*.{ts,js,css,scss,html,md}'"
+    "format": "yarn prettier '**/*.{ts,tsx,json,js,jsx,css,scss,html,md}' --write"
   },
   "remarkConfig": {
     "plugins": [
