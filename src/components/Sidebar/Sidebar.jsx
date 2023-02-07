@@ -3,7 +3,6 @@ import WidgetCategory from './WidgetCategory'
 import WidgetTag from './WidgetTag'
 import WidgetLatestPosts from './WidgetLatestPosts'
 import WidgetLinks from './WidgetLinks'
-import WidgetSearch from './WidgetSearch'
 import config from '../../../data/SiteConfig'
 
 const Sidebar = ({ tagList, categoryList, latestPostEdges, links }) => {
@@ -13,8 +12,6 @@ const Sidebar = ({ tagList, categoryList, latestPostEdges, links }) => {
         config.sidebarSticky ? 'height-full' : ''
       }`}
     >
-      <WidgetSearch />
-
       {latestPostEdges && (
         <WidgetLatestPosts latestPostEdges={latestPostEdges} />
       )}
