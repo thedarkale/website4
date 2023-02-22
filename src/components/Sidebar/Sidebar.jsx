@@ -12,13 +12,13 @@ const Sidebar = ({ tagList, categoryList, latestPostEdges, links }) => {
         config.sidebarSticky ? 'height-full' : ''
       }`}
     >
-      {latestPostEdges && (
-        <WidgetLatestPosts latestPostEdges={latestPostEdges} />
-      )}
-
       {categoryList && <WidgetCategory categoryList={categoryList} />}
 
       {tagList && <WidgetTag tagList={tagList} />}
+
+      {latestPostEdges && (
+        <WidgetLatestPosts latestPostEdges={latestPostEdges} />
+      )}
 
       {links && (
         <div className="position-sticky top-zero">

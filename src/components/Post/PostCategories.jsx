@@ -31,16 +31,18 @@ const PostCategories = ({
                 <FontAwesomeIcon
                   icon={['fas', 'folder-open']}
                   style={{ color: iconColor, width: '20px' }}
-                />{' '}
+                />
               </>
             )}
 
-            {categories.map((category, index) => (
-              <span key={category}>
-                {categoryLink(category)}
-                {index < categories.length - 1 && <>, </>}
-              </span>
-            ))}
+            {categories.map((category, index) => {
+              return (
+                <span key={category}>
+                  {categoryLink(category)}
+                  {index < categories.length - 1 && <>, </>}
+                </span>
+              )
+            })}
           </b>
         </div>
       )}
