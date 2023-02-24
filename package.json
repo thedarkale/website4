@@ -91,7 +91,6 @@
     "write-good": "write-good $(glob 'content/posts/**/*.md')",
     "slugify": "node scripts/slugify.js",
     "date": "node scripts/date.js",
-    "format:js": "prettier --write '**/*.{js,jsx}'",
     "blog": "node scripts/blog.js",
     "format": "prettier --write **/*.{ts,tsx,json,js,jsx,css,scss,html,md}"
   },
